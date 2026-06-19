@@ -1,0 +1,1001 @@
+student_id,problem_id,grade_level,grade_band,difficulty,primary_concepts,required_concepts,hist_required_acc_mean,hist_primary_acc_mean,answer_time_sec,pre_answer_confidence,is_correct,true_missing_concepts
+S0000,P0419,11,middle,2.61,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",-1.0,-1.0,97.84,0.563,1,[]
+S0000,P0151,11,high,3.97,"('percentages', 'polynomials')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'polynomials', 'ratios_proportions')",1.0,-1.0,140.66,0.542,0,"['percentages', 'ratios_proportions']"
+S0000,P0159,11,elementary,2.28,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5,0.5,84.53,0.577,0,"['ratios_proportions', 'fractions']"
+S0000,P0346,11,high,3.35,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.19047619047619047,0.16666666666666666,125.45,0.632,0,['ratios_proportions']
+S0000,P0479,11,elementary,1.67,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.125,-1.0,101.72,0.669,1,[]
+S0000,P0442,11,middle,1.31,"('fractions',)","('fractions', 'integer_arithmetic')",0.325,0.25,82.8,0.65,0,"['fractions', 'integer_arithmetic']"
+S0000,P0095,11,middle,3.32,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.20666666666666664,-1.0,119.6,0.855,1,[]
+S0000,P0351,11,high,2.34,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4123809523809524,0.5,98.73,0.784,0,"['percentages', 'ratios_proportions']"
+S0000,P0473,11,middle,1.95,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.5694444444444444,1.0,115.91,0.615,0,"['linear_equations', 'algebraic_simplification']"
+S0000,P0074,11,middle,2.46,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3214285714285714,0.3333333333333333,93.27,0.51,0,"['ratios_proportions', 'fractions']"
+S0000,P0365,11,high,1.77,"('decimals',)","('decimals', 'integer_arithmetic')",0.2928571428571428,0.2857142857142857,103.48,0.852,0,"['decimals', 'integer_arithmetic']"
+S0000,P0081,11,high,2.05,"('decimals', 'geometry_area')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic')",0.25757575757575757,0.25,94.37,0.525,0,"['geometry_area', 'fractions']"
+S0000,P0127,11,high,2.9,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.2,-1.0,109.73,0.769,0,['quadratic_equations']
+S0000,P0358,11,elementary,2.24,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.1076923076923077,0.0,93.53,0.693,0,['polynomials']
+S0000,P0132,11,high,1.79,"('exponents',)","('exponents', 'integer_arithmetic')",0.10714285714285714,0.0,102.72,0.69,0,['exponents']
+S0000,P0399,11,middle,2.44,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.09166666666666667,0.0,107.05,0.498,0,['polynomials']
+S0000,P0138,11,middle,2.32,"('fractions', 'geometry_volume')","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.13657407407407407,0.2222222222222222,103.51,0.634,1,[]
+S0000,P0245,11,high,2.67,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",0.17787114845938373,0.16666666666666666,109.45,0.455,0,"['linear_equations', 'algebraic_simplification']"
+S0000,P0290,11,middle,2.19,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.406031746031746,1.0,96.96,0.656,1,[]
+S0000,P0111,11,elementary,2.95,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.4669657097288676,0.6875,103.73,0.744,0,"['ratios_proportions', 'geometry_area', 'fractions']"
+S0000,P0202,11,high,1.92,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.3045454545454545,0.3333333333333333,119.67,0.67,0,"['percentages', 'ratios_proportions']"
+S0000,P0169,11,middle,1.86,"('fractions', 'integer_arithmetic')","('fractions', 'integer_arithmetic')",0.2728937728937729,0.2728937728937729,98.2,0.676,0,"['fractions', 'integer_arithmetic']"
+S0000,P0086,11,middle,1.4,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.20075757575757577,0.25,74.33,0.69,1,[]
+S0000,P0118,11,high,2.94,"('decimals', 'polynomials')","('algebraic_simplification', 'decimals', 'exponents', 'integer_arithmetic', 'polynomials')",0.14661835748792268,0.125,112.64,0.538,0,"['polynomials', 'algebraic_simplification', 'exponents']"
+S0000,P0097,11,high,3.22,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.37774725274725274,0.6,117.19,0.496,0,"['ratios_proportions', 'fractions', 'algebraic_simplification']"
+S0000,P0239,11,high,2.41,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2484199134199134,0.2727272727272727,106.64,0.701,0,['ratios_proportions']
+S0000,P0336,11,elementary,1.76,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.27136752136752135,0.3333333333333333,110.33,0.688,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0000,P0137,11,middle,1.84,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.235838779956427,0.25,76.47,0.593,1,[]
+S0000,P0081,11,high,2.05,"('decimals', 'geometry_area')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic')",0.28194444444444444,0.30000000000000004,102.06,0.525,1,[]
+S0000,P0235,11,high,2.09,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.27291288566243194,0.25,92.59,0.592,0,['ratios_proportions']
+S0001,P0369,11,elementary,3.58,"('geometry_volume', 'polynomials')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'polynomials')",-1.0,-1.0,127.09,0.584,0,['polynomials']
+S0001,P0296,11,elementary,2.11,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.0,0.0,100.64,0.657,0,"['polynomials', 'exponents']"
+S0001,P0263,11,middle,1.44,"('decimals',)","('decimals', 'integer_arithmetic')",0.0,-1.0,63.46,0.6,1,[]
+S0001,P0415,11,high,2.39,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4444444444444444,-1.0,117.61,0.734,0,"['decimals', 'ratios_proportions']"
+S0001,P0029,11,elementary,3.16,"('data_interpretation', 'integer_arithmetic')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.1875,0.25,113.2,0.541,0,"['decimals', 'data_interpretation', 'ratios_proportions']"
+S0001,P0301,11,elementary,2.49,"('integer_arithmetic', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.13333333333333333,0.1,101.06,0.688,0,['decimals']
+S0001,P0475,11,middle,3.09,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.08333333333333333,0.0,111.65,0.77,0,"['probability_basics', 'decimals']"
+S0001,P0360,11,middle,1.4,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.047619047619047616,0.0,69.77,0.675,1,[]
+S0001,P0435,11,high,1.95,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.3055555555555555,0.5,86.16,0.548,0,['geometry_area']
+S0001,P0351,11,high,2.34,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.11301587301587301,0.0,90.71,0.705,1,[]
+S0001,P0472,11,elementary,3.18,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.11000000000000001,0.25,111.66,0.496,0,['quadratic_equations']
+S0001,P0481,11,middle,2.61,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.25707070707070706,0.2,114.06,0.401,0,"['decimals', 'ratios_proportions']"
+S0001,P0316,11,high,2.03,"('decimals', 'fractions')","('decimals', 'fractions', 'integer_arithmetic')",0.24523809523809526,0.24285714285714285,89.41,0.495,0,['decimals']
+S0001,P0224,11,high,2.85,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.1898934398934399,0.0,97.36,0.696,0,"['decimals', 'data_interpretation', 'ratios_proportions']"
+S0001,P0396,11,high,2.65,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.05357142857142857,0.0,112.4,0.681,0,['polynomials']
+S0001,P0088,11,middle,1.98,"('geometry_area', 'geometry_volume')","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.175,0.16666666666666666,106.25,0.632,0,"['geometry_volume', 'geometry_area']"
+S0001,P0233,11,high,3.11,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.03125,0.0,98.85,0.481,0,"['quadratic_equations', 'polynomials', 'linear_equations']"
+S0001,P0167,11,elementary,1.72,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.08823529411764706,0.0,85.37,0.624,0,['integer_arithmetic']
+S0001,P0230,11,high,1.93,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.041666666666666664,0.0,100.08,0.554,1,[]
+S0001,P0125,11,high,2.44,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.1458903669429985,0.0,89.95,0.423,0,['probability_basics']
+S0001,P0060,11,elementary,2.26,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.16696428571428573,0.125,99.12,0.715,0,['decimals']
+S0001,P0119,11,high,1.39,"('exponents',)","('exponents', 'integer_arithmetic')",0.17857142857142855,0.16666666666666666,70.61,0.803,1,[]
+S0001,P0427,11,high,2.51,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.13005050505050506,0.09090909090909091,106.13,0.522,0,['decimals']
+S0001,P0496,11,middle,1.6,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.20024154589371979,0.25,78.63,0.623,1,[]
+S0001,P0189,11,middle,1.25,"('decimals',)","('decimals', 'integer_arithmetic')",0.20833333333333331,0.16666666666666666,70.2,0.6,1,[]
+S0001,P0120,11,high,1.37,"('fractions',)","('fractions', 'integer_arithmetic')",0.23375,0.1875,58.56,0.729,1,[]
+S0001,P0427,11,high,2.51,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.15961538461538463,0.11538461538461539,75.95,0.766,1,[]
+S0001,P0047,11,high,1.91,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.24188311688311687,0.16666666666666666,73.09,0.37,1,[]
+S0001,P0201,11,middle,2.04,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.248109243697479,0.0,99.43,0.723,0,"['geometry_volume', 'geometry_area']"
+S0001,P0058,11,high,1.82,"('fractions',)","('fractions', 'integer_arithmetic')",0.2835249042145594,0.2222222222222222,72.82,0.605,0,"['fractions', 'integer_arithmetic']"
+S0002,P0278,8,high,2.44,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",-1.0,-1.0,123.74,0.257,0,"['algebraic_simplification', 'decimals']"
+S0002,P0309,8,high,2.88,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,110.07,0.115,0,"['ratios_proportions', 'percentages']"
+S0002,P0398,8,high,1.88,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.0,0.0,101.34,0.294,0,"['algebraic_simplification', 'linear_equations', 'integer_arithmetic']"
+S0002,P0133,8,high,3.48,"('percentages', 'polynomials')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'polynomials', 'ratios_proportions')",0.0,0.0,111.98,0.261,0,"['ratios_proportions', 'percentages']"
+S0002,P0219,8,elementary,1.88,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,-1.0,72.4,0.359,0,['geometry_area']
+S0002,P0162,8,high,1.56,"('decimals',)","('decimals', 'integer_arithmetic')",0.0,0.0,90.19,0.251,0,"['decimals', 'integer_arithmetic']"
+S0002,P0458,8,high,3.07,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,129.23,0.264,0,"['ratios_proportions', 'percentages']"
+S0002,P0135,8,middle,3.29,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,138.59,0.388,0,"['ratios_proportions', 'percentages']"
+S0002,P0056,8,high,2.82,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,-1.0,117.72,0.275,0,['quadratic_equations']
+S0002,P0433,8,middle,1.96,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.0,0.0,94.97,0.134,0,['algebraic_simplification']
+S0002,P0176,8,middle,2.62,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,135.55,0.152,0,['quadratic_equations']
+S0002,P0114,8,elementary,3.79,"('geometry_volume', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,130.92,0.018,0,"['quadratic_equations', 'algebraic_simplification']"
+S0002,P0498,8,high,3.23,"('algebraic_simplification', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,133.97,0.185,0,['quadratic_equations']
+S0002,P0471,8,middle,2.57,"('integer_arithmetic', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,111.32,0.321,1,[]
+S0002,P0148,8,high,1.02,"('exponents',)","('exponents', 'integer_arithmetic')",0.03571428571428571,0.0,90.53,0.186,0,"['integer_arithmetic', 'exponents']"
+S0002,P0240,8,middle,1.55,"('fractions',)","('fractions', 'integer_arithmetic')",0.10476190476190475,0.14285714285714285,78.53,0.115,1,[]
+S0002,P0122,8,high,1.43,"('fractions', 'integer_arithmetic')","('fractions', 'integer_arithmetic')",0.1875,0.1875,74.07,0.01,0,"['fractions', 'integer_arithmetic']"
+S0002,P0291,8,middle,1.65,"('exponents',)","('exponents', 'integer_arithmetic')",0.058823529411764705,0.0,58.15,0.306,0,['integer_arithmetic']
+S0002,P0326,8,high,3.56,"('geometry_area', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.041666666666666664,0.0,142.45,0.186,0,['quadratic_equations']
+S0002,P0068,8,middle,3.47,"('linear_equations', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.12116004296455422,0.1,102.61,0.088,0,"['ratios_proportions', 'percentages']"
+S0002,P0313,8,high,2.23,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.025,0.0,98.1,0.01,1,[]
+S0002,P0062,8,middle,2.59,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.15660173160173158,0.16666666666666666,113.71,0.143,0,"['ratios_proportions', 'percentages']"
+S0002,P0220,8,middle,1.29,"('integer_arithmetic',)","('integer_arithmetic',)",0.13636363636363635,0.13636363636363635,73.86,0.295,0,['integer_arithmetic']
+S0002,P0015,8,elementary,1.37,"('integer_arithmetic',)","('integer_arithmetic',)",0.13043478260869565,0.13043478260869565,93.89,0.243,0,['integer_arithmetic']
+S0002,P0389,8,elementary,1.49,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.10795454545454546,0.09090909090909091,82.44,0.341,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0002,P0077,8,high,2.29,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.09555555555555555,0.0,106.17,0.016,0,"['geometry_area', 'fractions']"
+S0002,P0121,8,elementary,2.79,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.13079975579975578,-1.0,148.5,0.466,0,"['ratios_proportions', 'decimals']"
+S0002,P0435,8,high,1.95,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.08465608465608465,0.0,102.67,0.239,0,"['geometry_area', 'fractions']"
+S0002,P0257,8,high,1.54,"('fractions',)","('fractions', 'integer_arithmetic')",0.12023809523809523,0.13333333333333333,85.08,0.159,0,"['fractions', 'integer_arithmetic']"
+S0002,P0216,8,elementary,1.19,"('integer_arithmetic',)","('integer_arithmetic',)",0.10344827586206896,0.10344827586206896,89.58,0.126,0,['integer_arithmetic']
+S0003,P0137,11,middle,1.84,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",-1.0,-1.0,106.64,0.069,0,"['geometry_area', 'fractions']"
+S0003,P0107,11,middle,2.22,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",0.0,-1.0,100.4,0.261,1,[]
+S0003,P0499,11,elementary,1.55,"('fractions', 'geometry_area')","('fractions', 'geometry_area', 'integer_arithmetic')",0.16666666666666666,0.0,74.07,0.052,1,[]
+S0003,P0022,11,elementary,1.47,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5555555555555555,0.5,67.24,0.044,1,[]
+S0003,P0143,11,middle,1.95,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.6944444444444443,0.6666666666666666,98.21,0.371,0,['geometry_area']
+S0003,P0356,11,middle,4.43,"('probability_basics', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'probability_basics', 'quadratic_equations', 'ratios_proportions')",0.82,-1.0,138.22,0.058,1,[]
+S0003,P0143,11,middle,1.95,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5888888888888889,0.5,72.91,0.21,0,['geometry_area']
+S0003,P0055,11,middle,3.39,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.8142857142857143,1.0,123.16,0.044,0,"['percentages', 'data_interpretation']"
+S0003,P0107,11,middle,2.22,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",0.7916666666666666,1.0,103.17,0.25,1,[]
+S0003,P0350,11,high,2.46,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5468253968253969,0.625,69.8,0.112,0,"['algebraic_simplification', 'ratios_proportions', 'fractions']"
+S0003,P0005,11,middle,1.82,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.38541666666666663,0.3333333333333333,102.2,0.096,0,['ratios_proportions']
+S0003,P0029,11,elementary,3.16,"('data_interpretation', 'integer_arithmetic')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.21464646464646464,0.22727272727272727,103.8,0.286,1,[]
+S0003,P0446,11,middle,2.13,"('exponents', 'ratios_proportions')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5399999999999999,0.7,107.72,0.01,0,['ratios_proportions']
+S0003,P0484,11,high,2.44,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.40839160839160843,-1.0,107.33,0.263,0,['geometry_area']
+S0003,P0384,11,middle,2.47,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.36507936507936506,0.3333333333333333,104.77,0.268,0,['geometry_area']
+S0003,P0306,11,elementary,1.35,"('integer_arithmetic',)","('integer_arithmetic',)",0.4,0.4,76.23,0.01,1,[]
+S0003,P0361,11,high,3.14,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.40197649572649574,0.5,96.72,0.065,0,['percentages']
+S0003,P0344,11,high,1.09,"('fractions',)","('fractions', 'integer_arithmetic')",0.3487394957983193,0.2857142857142857,72.3,0.241,1,[]
+S0003,P0126,11,middle,2.38,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.5326984126984128,0.6428571428571428,121.32,0.221,1,[]
+S0003,P0301,11,elementary,2.49,"('integer_arithmetic', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3550281954887218,0.37969924812030076,89.35,0.013,1,[]
+S0003,P0120,11,high,1.37,"('fractions',)","('fractions', 'integer_arithmetic')",0.45588235294117646,0.4117647058823529,74.19,0.135,0,['fractions']
+S0003,P0404,11,high,1.97,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.7232142857142857,1.0,83.55,0.122,0,['polynomials']
+S0003,P0098,11,elementary,1.52,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.6753246753246754,1.0,99.61,0.01,1,[]
+S0003,P0165,11,elementary,2.24,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.5508152173913043,0.5,94.18,0.2,0,"['polynomials', 'algebraic_simplification']"
+S0003,P0324,11,middle,2.77,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.6051587301587301,0.6944444444444444,96.73,0.081,1,[]
+S0003,P0318,11,middle,2.42,"('geometry_area', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'ratios_proportions')",0.40521052631578947,0.375,95.41,0.01,0,['ratios_proportions']
+S0003,P0240,11,middle,1.55,"('fractions',)","('fractions', 'integer_arithmetic')",0.4307692307692308,0.4,68.79,0.153,1,[]
+S0003,P0049,11,high,2.2,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.6938271604938272,1.0,99.64,0.168,1,[]
+S0003,P0267,11,elementary,1.32,"('exponents',)","('exponents', 'integer_arithmetic')",0.5357142857142857,0.5714285714285714,73.82,0.065,1,[]
+S0003,P0324,11,middle,2.77,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.6724537777493442,0.7142857142857143,108.72,0.01,0,['polynomials']
+S0004,P0211,5,elementary,1.57,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",-1.0,-1.0,104.0,0.545,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0004,P0250,5,middle,1.47,"('fractions', 'geometry_area')","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,-1.0,107.07,0.464,0,['geometry_area']
+S0004,P0167,5,elementary,1.72,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,0.0,109.71,0.454,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0004,P0262,5,high,1.57,"('exponents',)","('exponents', 'integer_arithmetic')",0.0,-1.0,110.57,0.481,0,"['exponents', 'integer_arithmetic']"
+S0004,P0330,5,middle,2.34,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,-1.0,101.11,0.618,1,[]
+S0004,P0468,5,middle,1.19,"('integer_arithmetic',)","('integer_arithmetic',)",0.2,0.2,96.65,0.799,0,['integer_arithmetic']
+S0004,P0229,5,high,2.86,"('exponents', 'ratios_proportions')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5333333333333334,0.5,100.39,0.606,0,['decimals']
+S0004,P0238,5,middle,1.89,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.07142857142857142,-1.0,81.41,0.292,0,['algebraic_simplification']
+S0004,P0274,5,middle,3.23,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.3645833333333333,-1.0,141.47,0.404,0,['percentages']
+S0004,P0493,5,middle,2.24,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.20555555555555555,0.16666666666666666,116.8,0.615,0,['decimals']
+S0004,P0142,5,middle,3.47,"('percentages', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'probability_basics', 'ratios_proportions')",0.16,0.0,135.02,0.624,0,['percentages']
+S0004,P0069,5,middle,2.14,"('exponents', 'geometry_area')","('exponents', 'fractions', 'geometry_area', 'integer_arithmetic')",0.06439393939393939,0.0,90.51,0.7,0,"['geometry_area', 'exponents']"
+S0004,P0444,5,high,3.5,"('data_interpretation', 'exponents')","('data_interpretation', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.08945578231292517,0.0,127.08,0.507,0,['percentages']
+S0004,P0311,5,middle,1.63,"('decimals',)","('decimals', 'integer_arithmetic')",0.12179487179487179,0.16666666666666666,99.48,0.327,0,['decimals']
+S0004,P0393,5,elementary,2.28,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.10119047619047619,0.07142857142857142,97.77,0.505,0,['percentages']
+S0004,P0173,5,high,2.4,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.11140873015873015,0.14285714285714285,125.47,0.431,0,"['decimals', 'ratios_proportions']"
+S0004,P0335,5,middle,1.32,"('decimals',)","('decimals', 'integer_arithmetic')",0.08680555555555555,0.1111111111111111,87.66,0.447,0,"['decimals', 'integer_arithmetic']"
+S0004,P0108,5,middle,1.7,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.052941176470588235,0.0,97.34,0.664,0,"['geometry_area', 'fractions']"
+S0004,P0202,5,high,1.92,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0742929292929293,0.0,84.96,0.533,0,"['percentages', 'decimals', 'ratios_proportions']"
+S0004,P0184,5,high,1.71,"('decimals',)","('decimals', 'integer_arithmetic')",0.07177033492822966,0.09090909090909091,105.23,0.571,0,"['decimals', 'integer_arithmetic']"
+S0004,P0290,5,middle,2.19,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.06555555555555556,0.0,105.67,0.443,0,['decimals']
+S0004,P0327,5,middle,2.69,"('polynomials', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.011904761904761904,-1.0,101.72,0.494,0,"['polynomials', 'exponents']"
+S0004,P0091,5,high,3.36,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.04988344988344989,0.0,106.94,0.558,1,[]
+S0004,P0258,5,elementary,2.17,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.1386222473178995,0.18181818181818182,109.29,0.643,1,[]
+S0004,P0321,5,elementary,2.46,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.048611111111111105,0.0,107.62,0.54,0,"['polynomials', 'exponents', 'quadratic_equations']"
+S0004,P0436,5,middle,2.97,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.12833333333333333,0.0,113.51,0.571,1,[]
+S0004,P0205,5,middle,1.57,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.14835164835164835,0.14285714285714285,123.58,0.502,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0004,P0051,5,elementary,2.42,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.06828703703703703,0.0,122.7,0.427,0,"['polynomials', 'exponents', 'algebraic_simplification']"
+S0004,P0348,5,high,1.34,"('decimals',)","('decimals', 'integer_arithmetic')",0.19642857142857142,0.25,97.83,0.349,0,['decimals']
+S0004,P0180,5,middle,2.54,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.23848624330368753,0.3333333333333333,120.04,0.399,0,"['percentages', 'data_interpretation']"
+S0005,P0318,5,middle,2.42,"('geometry_area', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'ratios_proportions')",-1.0,-1.0,95.94,0.488,1,[]
+S0005,P0011,5,middle,2.2,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",1.0,-1.0,102.68,0.557,0,"['geometry_area', 'geometry_volume']"
+S0005,P0010,5,high,1.72,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5,0.5,120.27,0.46,0,['geometry_area']
+S0005,P0396,5,high,2.65,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.3333333333333333,-1.0,106.92,0.495,0,['algebraic_simplification']
+S0005,P0162,5,high,1.56,"('decimals',)","('decimals', 'integer_arithmetic')",0.625,1.0,85.34,0.661,0,"['integer_arithmetic', 'decimals']"
+S0005,P0282,5,middle,3.28,"('data_interpretation', 'linear_equations')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.4066666666666666,-1.0,111.95,0.366,0,['data_interpretation']
+S0005,P0216,5,elementary,1.19,"('integer_arithmetic',)","('integer_arithmetic',)",0.16666666666666666,0.16666666666666666,98.58,0.417,0,['integer_arithmetic']
+S0005,P0359,5,high,1.25,"('integer_arithmetic',)","('integer_arithmetic',)",0.14285714285714285,0.14285714285714285,90.47,0.536,0,['integer_arithmetic']
+S0005,P0322,5,elementary,2.65,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.025,-1.0,105.78,0.628,0,"['linear_equations', 'quadratic_equations', 'algebraic_simplification']"
+S0005,P0240,5,middle,1.55,"('fractions',)","('fractions', 'integer_arithmetic')",0.18055555555555555,0.25,98.57,0.742,0,"['integer_arithmetic', 'fractions']"
+S0005,P0344,5,high,1.09,"('fractions',)","('fractions', 'integer_arithmetic')",0.15000000000000002,0.2,91.38,0.65,1,[]
+S0005,P0044,5,elementary,2.67,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.3371212121212121,-1.0,119.84,0.614,0,['probability_basics']
+S0005,P0457,5,middle,2.17,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.20714285714285713,0.0,99.41,0.597,0,['percentages']
+S0005,P0080,5,high,3.13,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.025641025641025644,0.0,118.83,0.62,0,"['linear_equations', 'quadratic_equations']"
+S0005,P0254,5,high,1.25,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.07142857142857142,0.0,89.95,0.719,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0005,P0066,5,middle,2.68,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.1388888888888889,0.0,104.33,0.764,1,[]
+S0005,P0492,5,middle,1.56,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.2847222222222222,0.3333333333333333,75.21,0.567,0,"['geometry_area', 'integer_arithmetic']"
+S0005,P0405,5,middle,1.69,"('algebraic_simplification', 'integer_arithmetic')","('algebraic_simplification', 'integer_arithmetic')",0.08823529411764706,0.08823529411764706,83.03,0.495,1,[]
+S0005,P0101,5,middle,2.67,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3138888888888889,0.4,92.51,0.662,0,['ratios_proportions']
+S0005,P0461,5,high,1.6,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.18859649122807015,0.16666666666666666,100.5,0.502,1,[]
+S0005,P0090,5,middle,2.45,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.25757575757575757,0.25,84.96,0.494,0,"['geometry_area', 'integer_arithmetic', 'fractions']"
+S0005,P0041,5,middle,3.6,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.31802721088435376,0.39285714285714285,121.59,0.507,0,['data_interpretation']
+S0005,P0275,5,middle,0.71,"('integer_arithmetic',)","('integer_arithmetic',)",0.22727272727272727,0.22727272727272727,65.38,0.51,0,['integer_arithmetic']
+S0005,P0303,5,high,2.14,"('integer_arithmetic', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.11684782608695651,0.10869565217391304,104.11,0.695,0,['algebraic_simplification']
+S0005,P0273,5,middle,3.34,"('geometry_area', 'polynomials')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'integer_arithmetic', 'polynomials')",0.14355413105413106,0.1,111.89,0.574,0,"['geometry_area', 'algebraic_simplification', 'polynomials']"
+S0005,P0383,5,elementary,1.75,"('fractions',)","('fractions', 'integer_arithmetic')",0.20714285714285713,0.21428571428571427,94.51,0.352,0,"['integer_arithmetic', 'fractions']"
+S0005,P0076,5,elementary,3.41,"('geometry_volume', 'percentages')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.19209837781266353,0.125,128.98,0.679,0,"['percentages', 'geometry_area', 'geometry_volume']"
+S0005,P0233,5,high,3.11,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.06419753086419754,0.0,128.55,0.707,0,['linear_equations']
+S0005,P0453,5,middle,1.7,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.16964285714285712,0.14285714285714285,79.4,0.432,0,"['geometry_area', 'integer_arithmetic']"
+S0005,P0201,5,middle,2.04,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.11847109533468561,0.0,116.16,0.371,0,['geometry_area']
+S0006,P0483,8,middle,1.15,"('integer_arithmetic',)","('integer_arithmetic',)",-1.0,-1.0,74.59,0.831,0,['integer_arithmetic']
+S0006,P0481,8,middle,2.61,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,-1.0,130.98,0.822,0,"['decimals', 'ratios_proportions']"
+S0006,P0236,8,middle,3.25,"('exponents', 'probability_basics')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,132.51,0.803,1,[]
+S0006,P0012,8,elementary,2.89,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.6666666666666666,-1.0,107.29,0.84,1,[]
+S0006,P0338,8,middle,1.99,"('algebraic_simplification', 'exponents')","('algebraic_simplification', 'exponents', 'integer_arithmetic')",0.8333333333333334,1.0,109.84,0.753,0,['exponents']
+S0006,P0267,8,elementary,1.32,"('exponents',)","('exponents', 'integer_arithmetic')",0.5333333333333333,0.6666666666666666,83.18,0.72,1,[]
+S0006,P0419,8,middle,2.61,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.6,1.0,114.8,0.825,0,['decimals']
+S0006,P0265,8,middle,1.48,"('decimals',)","('decimals', 'integer_arithmetic')",0.38095238095238093,0.3333333333333333,94.76,0.574,0,['decimals']
+S0006,P0015,8,elementary,1.37,"('integer_arithmetic',)","('integer_arithmetic',)",0.375,0.375,97.07,0.957,0,['integer_arithmetic']
+S0006,P0091,8,high,3.36,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.375,0.5,131.09,0.86,0,"['decimals', 'ratios_proportions', 'algebraic_simplification']"
+S0006,P0247,8,middle,2.33,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.275,-1.0,98.3,0.856,1,[]
+S0006,P0018,8,high,1.92,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.6117424242424242,1.0,92.5,0.75,0,"['exponents', 'polynomials']"
+S0006,P0359,8,high,1.25,"('integer_arithmetic',)","('integer_arithmetic',)",0.3333333333333333,0.3333333333333333,84.94,0.528,1,[]
+S0006,P0389,8,elementary,1.49,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.3173076923076923,0.25,65.56,0.824,1,[]
+S0006,P0387,8,high,1.01,"('integer_arithmetic',)","('integer_arithmetic',)",0.42857142857142855,0.42857142857142855,77.76,0.793,1,[]
+S0006,P0413,8,elementary,2.41,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3433333333333334,0.325,98.82,0.976,0,['decimals']
+S0006,P0102,8,middle,2.4,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.46770833333333334,-1.0,85.08,0.753,1,[]
+S0006,P0094,8,elementary,2.01,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2926470588235294,0.2,87.73,0.703,0,"['decimals', 'ratios_proportions']"
+S0006,P0429,8,elementary,1.59,"('decimals',)","('decimals', 'integer_arithmetic')",0.2936507936507936,0.14285714285714285,92.95,0.642,0,"['decimals', 'integer_arithmetic']"
+S0006,P0282,8,middle,3.28,"('data_interpretation', 'linear_equations')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.404500835421888,1.0,101.06,0.868,1,[]
+S0006,P0428,8,elementary,1.07,"('integer_arithmetic',)","('integer_arithmetic',)",0.45,0.45,83.31,0.549,0,['integer_arithmetic']
+S0006,P0212,8,middle,1.0,"('integer_arithmetic',)","('integer_arithmetic',)",0.42857142857142855,0.42857142857142855,90.92,0.783,0,['integer_arithmetic']
+S0006,P0036,8,high,2.87,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.32507215007215,0.3333333333333333,118.23,0.847,0,"['decimals', 'ratios_proportions']"
+S0006,P0392,8,middle,1.9,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5748792270531401,1.0,112.97,0.655,0,"['geometry_area', 'integer_arithmetic']"
+S0006,P0060,8,elementary,2.26,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.28125,0.25,95.41,0.774,0,['decimals']
+S0006,P0290,8,middle,2.19,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.25735353535353533,0.25,106.69,0.886,1,[]
+S0006,P0361,8,high,3.14,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5446581196581196,1.0,121.0,0.811,1,[]
+S0006,P0302,8,middle,3.62,"('geometry_volume', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.6805951250395695,1.0,115.39,0.77,0,"['geometry_area', 'exponents']"
+S0006,P0243,8,elementary,1.65,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.4186507936507936,0.4444444444444444,97.29,0.783,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0006,P0404,8,high,1.97,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.4626847290640394,0.5,113.38,0.649,1,[]
+S0007,P0302,10,middle,3.62,"('geometry_volume', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",-1.0,-1.0,128.98,0.01,0,"['polynomials', 'exponents', 'geometry_area']"
+S0007,P0329,10,elementary,2.96,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,99.71,0.243,0,['ratios_proportions']
+S0007,P0050,10,elementary,1.93,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,82.29,0.107,0,"['fractions', 'integer_arithmetic']"
+S0007,P0251,10,elementary,1.08,"('integer_arithmetic',)","('integer_arithmetic',)",0.0,0.0,68.03,0.226,1,[]
+S0007,P0428,10,elementary,1.07,"('integer_arithmetic',)","('integer_arithmetic',)",0.25,0.25,86.48,0.175,1,[]
+S0007,P0349,10,elementary,1.97,"('algebraic_simplification', 'fractions')","('algebraic_simplification', 'fractions', 'integer_arithmetic')",0.13333333333333333,0.0,84.49,0.106,1,[]
+S0007,P0119,10,high,1.39,"('exponents',)","('exponents', 'integer_arithmetic')",0.25,0.0,88.74,0.028,0,"['exponents', 'integer_arithmetic']"
+S0007,P0074,10,middle,2.46,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.16964285714285715,0.0,102.42,0.033,0,"['ratios_proportions', 'decimals', 'fractions']"
+S0007,P0161,10,middle,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.14375,-1.0,125.16,0.173,1,[]
+S0007,P0148,10,high,1.02,"('exponents',)","('exponents', 'integer_arithmetic')",0.2222222222222222,0.0,66.27,0.01,0,['exponents']
+S0007,P0122,10,high,1.43,"('fractions', 'integer_arithmetic')","('fractions', 'integer_arithmetic')",0.3666666666666667,0.3666666666666667,69.84,0.079,1,[]
+S0007,P0140,10,high,2.22,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.23863636363636365,0.0,103.24,0.01,0,"['polynomials', 'exponents']"
+S0007,P0181,10,middle,1.45,"('fractions',)","('fractions', 'integer_arithmetic')",0.4226190476190476,0.42857142857142855,85.61,0.01,1,[]
+S0007,P0408,10,middle,2.43,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.28205128205128205,0.16666666666666666,102.1,0.01,1,[]
+S0007,P0377,10,middle,3.08,"('data_interpretation', 'percentages')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.36666666666666664,0.0,97.43,0.068,0,['ratios_proportions']
+S0007,P0276,10,high,1.06,"('fractions',)","('fractions', 'integer_arithmetic')",0.45555555555555555,0.4444444444444444,65.62,0.054,1,[]
+S0007,P0256,10,middle,2.9,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.27499999999999997,0.0,88.32,0.152,0,"['ratios_proportions', 'data_interpretation']"
+S0007,P0441,10,middle,2.31,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.23128342245989303,0.0,101.07,0.103,1,[]
+S0007,P0324,10,middle,2.77,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.2857142857142857,0.25,111.65,0.01,0,"['polynomials', 'exponents']"
+S0007,P0244,10,high,1.51,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.4023391812865497,0.3333333333333333,82.73,0.058,0,"['algebraic_simplification', 'linear_equations', 'integer_arithmetic']"
+S0007,P0085,10,elementary,1.12,"('exponents',)","('exponents', 'integer_arithmetic')",0.225,0.0,77.58,0.028,0,['exponents']
+S0007,P0070,10,high,2.55,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.23724053724053726,0.0,130.24,0.01,0,"['ratios_proportions', 'data_interpretation']"
+S0007,P0268,10,elementary,2.33,"('fractions', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3225108225108225,0.2976190476190476,106.15,0.01,0,['ratios_proportions']
+S0007,P0492,10,middle,1.56,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.43043478260869567,0.5,73.26,0.01,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0007,P0179,10,middle,1.38,"('exponents',)","('exponents', 'integer_arithmetic')",0.1875,0.0,104.72,0.089,0,"['exponents', 'integer_arithmetic']"
+S0007,P0278,10,high,2.44,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.29833333333333334,0.25,92.26,0.01,0,"['algebraic_simplification', 'linear_equations']"
+S0007,P0148,10,high,1.02,"('exponents',)","('exponents', 'integer_arithmetic')",0.17307692307692307,0.0,90.55,0.01,0,"['exponents', 'integer_arithmetic']"
+S0007,P0005,10,middle,1.82,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2683531746031746,0.14285714285714285,96.86,0.01,0,"['ratios_proportions', 'decimals']"
+S0007,P0147,10,high,1.75,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.2517857142857143,0.2,84.07,0.01,1,[]
+S0007,P0331,10,high,1.69,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.3437006986702727,0.3333333333333333,76.98,0.366,1,[]
+S0008,P0431,11,middle,1.24,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",-1.0,-1.0,82.63,0.513,1,[]
+S0008,P0054,11,middle,2.81,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",1.0,-1.0,108.65,0.354,0,['linear_equations']
+S0008,P0359,11,high,1.25,"('integer_arithmetic',)","('integer_arithmetic',)",0.5,0.5,85.23,0.427,0,['integer_arithmetic']
+S0008,P0126,11,middle,2.38,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.27777777777777773,0.0,81.74,0.32,0,"['linear_equations', 'algebraic_simplification']"
+S0008,P0179,11,middle,1.38,"('exponents',)","('exponents', 'integer_arithmetic')",0.125,0.0,82.24,0.428,0,['exponents']
+S0008,P0231,11,middle,1.3,"('decimals',)","('decimals', 'integer_arithmetic')",0.2,-1.0,100.11,0.668,0,['decimals']
+S0008,P0380,11,middle,2.21,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.05555555555555555,-1.0,95.4,0.349,1,[]
+S0008,P0421,11,elementary,3.64,"('geometry_volume', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.13988095238095238,0.0,118.77,0.378,0,"['linear_equations', 'quadratic_equations']"
+S0008,P0450,11,middle,1.88,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5208333333333333,1.0,79.25,0.219,0,['decimals']
+S0008,P0092,11,middle,2.81,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.32638888888888884,-1.0,85.39,0.422,0,['decimals']
+S0008,P0007,11,elementary,1.65,"('decimals',)","('decimals', 'integer_arithmetic')",0.225,0.25,88.92,0.429,0,"['decimals', 'integer_arithmetic']"
+S0008,P0412,11,middle,2.14,"('integer_arithmetic', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.18303030303030302,0.09090909090909091,73.82,0.556,1,[]
+S0008,P0246,11,middle,3.53,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4833333333333333,-1.0,139.36,0.337,0,"['data_interpretation', 'decimals']"
+S0008,P0393,11,elementary,2.28,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.3404395604395605,0.39285714285714285,96.56,0.095,0,"['decimals', 'percentages']"
+S0008,P0452,11,elementary,0.83,"('integer_arithmetic',)","('integer_arithmetic',)",0.21428571428571427,0.21428571428571427,74.49,0.369,0,['integer_arithmetic']
+S0008,P0330,11,middle,2.34,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2583333333333333,0.3333333333333333,85.47,0.557,0,['decimals']
+S0008,P0195,11,middle,2.36,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.22941468253968253,0.2857142857142857,85.84,0.571,0,"['decimals', 'ratios_proportions']"
+S0008,P0432,11,high,2.58,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.26529411764705885,0.5,106.92,0.441,0,"['decimals', 'probability_basics']"
+S0008,P0441,11,middle,2.31,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.08712121212121213,0.0,86.01,0.243,1,[]
+S0008,P0162,11,high,1.56,"('decimals',)","('decimals', 'integer_arithmetic')",0.19617224880382775,0.18181818181818182,92.68,0.512,1,[]
+S0008,P0433,11,middle,1.96,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.16666666666666666,0.0,99.18,0.434,0,"['linear_equations', 'algebraic_simplification']"
+S0008,P0039,11,middle,2.13,"('fractions', 'linear_equations')","('algebraic_simplification', 'fractions', 'integer_arithmetic', 'linear_equations')",0.17202380952380952,0.125,94.99,0.428,0,['linear_equations']
+S0008,P0253,11,middle,2.16,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.32284382284382285,0.5,97.24,0.488,1,[]
+S0008,P0395,11,high,1.3,"('exponents',)","('exponents', 'integer_arithmetic')",0.13043478260869565,0.0,77.24,0.427,0,"['exponents', 'integer_arithmetic']"
+S0008,P0084,11,elementary,1.91,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.251984126984127,0.2361111111111111,98.48,0.36,1,[]
+S0008,P0271,11,elementary,1.56,"('fractions',)","('fractions', 'integer_arithmetic')",0.30666666666666664,0.3333333333333333,74.96,0.383,1,[]
+S0008,P0077,11,high,2.29,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.3942307692307692,0.5,87.19,0.482,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0008,P0212,11,middle,1.0,"('integer_arithmetic',)","('integer_arithmetic',)",0.2962962962962963,0.2962962962962963,60.15,0.48,1,[]
+S0008,P0303,11,high,2.14,"('integer_arithmetic', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.12202380952380953,0.16071428571428573,113.65,0.649,0,"['exponents', 'polynomials', 'algebraic_simplification']"
+S0008,P0254,11,high,1.25,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.22660098522167488,0.14285714285714285,71.8,0.616,1,[]
+S0009,P0035,10,elementary,2.24,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",-1.0,-1.0,91.27,0.466,0,"['ratios_proportions', 'fractions']"
+S0009,P0283,10,high,1.18,"('integer_arithmetic',)","('integer_arithmetic',)",0.0,0.0,79.48,0.36,1,[]
+S0009,P0451,10,middle,1.79,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.125,0.0,104.84,0.384,0,"['ratios_proportions', 'fractions', 'decimals']"
+S0009,P0386,10,elementary,2.89,"('data_interpretation', 'percentages')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.08333333333333333,-1.0,118.67,0.165,0,"['percentages', 'ratios_proportions']"
+S0009,P0485,10,elementary,2.13,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.25,-1.0,101.72,0.272,0,['linear_equations']
+S0009,P0100,10,elementary,1.44,"('fractions',)","('fractions', 'integer_arithmetic')",0.1,0.0,84.17,0.181,0,"['fractions', 'integer_arithmetic']"
+S0009,P0106,10,middle,1.8,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.08333333333333333,-1.0,103.8,0.266,0,['fractions']
+S0009,P0344,10,high,1.09,"('fractions',)","('fractions', 'integer_arithmetic')",0.07142857142857142,0.0,80.07,0.241,0,['fractions']
+S0009,P0424,10,elementary,1.44,"('decimals',)","('decimals', 'integer_arithmetic')",0.0625,0.0,79.97,0.611,0,"['decimals', 'integer_arithmetic']"
+S0009,P0290,10,middle,2.19,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.027777777777777776,-1.0,96.39,0.217,0,"['probability_basics', 'ratios_proportions', 'fractions']"
+S0009,P0348,10,high,1.34,"('decimals',)","('decimals', 'integer_arithmetic')",0.05,0.0,63.48,0.279,0,['decimals']
+S0009,P0104,10,high,1.51,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.045454545454545456,0.0,104.03,0.394,1,[]
+S0009,P0220,10,middle,1.29,"('integer_arithmetic',)","('integer_arithmetic',)",0.16666666666666666,0.16666666666666666,73.99,0.33,0,['integer_arithmetic']
+S0009,P0075,10,middle,1.76,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.05128205128205129,0.0,113.08,0.276,0,"['fractions', 'geometry_area', 'integer_arithmetic']"
+S0009,P0226,10,high,3.03,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.12857142857142856,0.0,104.85,0.375,0,['ratios_proportions']
+S0009,P0083,10,high,2.2,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.044444444444444446,-1.0,95.18,0.294,0,"['fractions', 'geometry_area']"
+S0009,P0464,10,middle,2.07,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.09166666666666666,0.0,89.41,0.388,1,[]
+S0009,P0075,10,middle,1.76,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.17245989304812837,0.25,89.41,0.437,1,[]
+S0009,P0248,10,high,2.06,"('geometry_area', 'integer_arithmetic')","('fractions', 'geometry_area', 'integer_arithmetic')",0.26296296296296295,0.3111111111111111,71.37,0.274,1,[]
+S0009,P0254,10,high,1.25,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.381578947368421,0.5,87.64,0.483,0,['algebraic_simplification']
+S0009,P0049,10,high,2.2,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.3833333333333333,0.5,104.63,0.263,1,[]
+S0009,P0355,10,elementary,2.91,"('geometry_volume', 'percentages')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.14521193092621662,0.0,107.83,0.262,0,"['percentages', 'ratios_proportions', 'fractions']"
+S0009,P0457,10,middle,2.17,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.09740259740259741,0.0,102.15,0.566,0,"['percentages', 'ratios_proportions']"
+S0009,P0209,10,middle,1.51,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.11521739130434783,0.0,78.63,0.128,0,"['ratios_proportions', 'fractions', 'decimals']"
+S0009,P0157,10,high,3.24,"('data_interpretation', 'geometry_area')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.12372448979591837,0.21428571428571427,113.31,0.301,0,"['percentages', 'ratios_proportions']"
+S0009,P0327,10,middle,2.69,"('polynomials', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.2813333333333333,0.0,99.01,0.24,0,['quadratic_equations']
+S0009,P0232,10,high,3.86,"('geometry_volume', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.1900901386195504,0.0,142.48,0.41,0,"['fractions', 'quadratic_equations']"
+S0009,P0370,10,middle,1.47,"('decimals',)","('decimals', 'integer_arithmetic')",0.1111111111111111,0.0,61.9,0.226,0,"['decimals', 'integer_arithmetic']"
+S0009,P0076,10,elementary,3.41,"('geometry_volume', 'percentages')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.10204081632653061,0.0,116.21,0.161,0,"['percentages', 'ratios_proportions']"
+S0009,P0222,10,middle,1.44,"('fractions',)","('fractions', 'integer_arithmetic')",0.1823956442831216,0.15789473684210525,105.92,0.266,0,"['fractions', 'integer_arithmetic']"
+S0010,P0410,10,high,2.16,"('integer_arithmetic', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",-1.0,-1.0,91.91,0.773,1,[]
+S0010,P0439,10,middle,3.05,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",1.0,1.0,103.09,0.549,1,[]
+S0010,P0104,10,high,1.51,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",1.0,-1.0,91.75,0.633,1,[]
+S0010,P0380,10,middle,2.21,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",1.0,1.0,94.87,0.5,1,[]
+S0010,P0333,10,elementary,1.91,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",1.0,1.0,88.99,0.337,1,[]
+S0010,P0300,10,elementary,2.11,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",1.0,1.0,93.3,0.787,1,[]
+S0010,P0472,10,elementary,3.18,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",1.0,1.0,101.36,0.519,0,"['linear_equations', 'polynomials']"
+S0010,P0170,10,middle,1.38,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.6785714285714286,0.5,70.66,0.625,1,[]
+S0010,P0107,10,middle,2.22,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",0.38541666666666663,0.0,102.56,0.431,0,"['linear_equations', 'exponents']"
+S0010,P0405,10,middle,1.69,"('algebraic_simplification', 'integer_arithmetic')","('algebraic_simplification', 'integer_arithmetic')",0.6388888888888888,0.6388888888888888,74.66,0.362,0,"['integer_arithmetic', 'algebraic_simplification']"
+S0010,P0354,10,middle,2.39,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.275,0.0,115.96,0.325,0,['polynomials']
+S0010,P0160,10,middle,1.16,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.48484848484848486,0.3333333333333333,77.96,0.652,1,[]
+S0010,P0282,10,middle,3.28,"('data_interpretation', 'linear_equations')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.7040816326530612,0.0,101.68,0.297,0,['linear_equations']
+S0010,P0039,10,middle,2.13,"('fractions', 'linear_equations')","('algebraic_simplification', 'fractions', 'integer_arithmetic', 'linear_equations')",0.42616758241758246,0.35714285714285715,85.37,0.48,1,[]
+S0010,P0025,10,high,2.27,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.7648809523809524,0.8333333333333334,114.82,0.432,1,[]
+S0010,P0082,10,middle,2.56,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.2777777777777778,0.0,109.15,0.383,0,"['polynomials', 'exponents']"
+S0010,P0172,10,middle,2.55,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.7834126984126984,0.8,95.81,0.636,1,[]
+S0010,P0486,10,elementary,1.79,"('integer_arithmetic', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.26176470588235295,0.3235294117647059,85.64,0.573,1,[]
+S0010,P0172,10,middle,2.55,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.8100000000000002,0.8333333333333334,88.89,0.727,1,[]
+S0010,P0281,10,high,2.37,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.8200425305688464,0.8888888888888888,99.98,0.322,1,[]
+S0010,P0069,10,middle,2.14,"('exponents', 'geometry_area')","('exponents', 'fractions', 'geometry_area', 'integer_arithmetic')",0.5777777777777778,0.2,90.91,0.389,0,['geometry_area']
+S0010,P0322,10,elementary,2.65,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.29797979797979796,0.0,97.49,0.615,0,"['linear_equations', 'polynomials', 'quadratic_equations']"
+S0010,P0005,10,middle,1.82,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.8013986013986014,0.9,95.49,0.501,0,['ratios_proportions']
+S0010,P0283,10,high,1.18,"('integer_arithmetic',)","('integer_arithmetic',)",0.6086956521739131,0.6086956521739131,54.16,0.478,1,[]
+S0010,P0194,10,middle,2.11,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.4138888888888889,0.2,110.74,0.469,1,[]
+S0010,P0012,10,elementary,2.89,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.36109890109890114,0.2,109.7,0.482,1,[]
+S0010,P0062,10,middle,2.59,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.7723276723276724,0.8571428571428571,109.79,0.629,1,[]
+S0010,P0012,10,elementary,2.89,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.43749999999999994,0.3333333333333333,113.51,0.442,0,"['polynomials', 'exponents', 'integer_arithmetic']"
+S0010,P0248,10,high,2.06,"('geometry_area', 'integer_arithmetic')","('fractions', 'geometry_area', 'integer_arithmetic')",0.4587301587301587,0.32142857142857145,97.86,0.402,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0010,P0204,10,middle,3.31,"('data_interpretation', 'geometry_area')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5499794745484401,0.0,128.96,0.576,0,['geometry_area']
+S0011,P0037,9,middle,1.43,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",-1.0,-1.0,108.93,0.591,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0011,P0202,9,high,1.92,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,79.13,0.77,1,[]
+S0011,P0223,9,middle,1.48,"('integer_arithmetic',)","('integer_arithmetic',)",0.5,0.5,102.44,0.453,1,[]
+S0011,P0346,9,high,3.35,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.7333333333333333,1.0,137.46,0.903,1,[]
+S0011,P0477,9,middle,1.99,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.8125,1.0,102.97,0.409,1,[]
+S0011,P0051,9,elementary,2.42,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.8666666666666667,1.0,91.55,0.816,1,[]
+S0011,P0080,9,high,3.13,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.8958333333333334,-1.0,94.48,0.517,0,['quadratic_equations']
+S0011,P0355,9,elementary,2.91,"('geometry_volume', 'percentages')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.9428571428571428,1.0,103.34,0.364,0,"['percentages', 'ratios_proportions', 'geometry_area']"
+S0011,P0210,9,middle,1.22,"('fractions',)","('fractions', 'integer_arithmetic')",0.6458333333333333,0.6666666666666666,76.32,0.61,0,['fractions']
+S0011,P0006,9,middle,2.04,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5972222222222222,0.6666666666666666,90.26,0.605,0,['ratios_proportions']
+S0011,P0362,9,elementary,3.69,"('percentages', 'polynomials')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'polynomials', 'ratios_proportions')",0.5625,0.625,136.48,0.52,0,"['percentages', 'ratios_proportions']"
+S0011,P0044,9,elementary,2.67,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.396969696969697,-1.0,99.04,0.778,1,[]
+S0011,P0314,9,middle,1.72,"('fractions',)","('fractions', 'integer_arithmetic')",0.4642857142857143,0.42857142857142855,116.66,0.572,1,[]
+S0011,P0377,9,middle,3.08,"('data_interpretation', 'percentages')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4743589743589743,0.3333333333333333,107.34,0.835,0,"['percentages', 'ratios_proportions']"
+S0011,P0276,9,high,1.06,"('fractions',)","('fractions', 'integer_arithmetic')",0.4722222222222222,0.4444444444444444,76.01,0.718,1,[]
+S0011,P0411,9,high,2.0,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.5166666666666666,0.5,95.27,0.465,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0011,P0258,9,elementary,2.17,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4642857142857143,0.42857142857142855,103.66,0.736,1,[]
+S0011,P0141,9,middle,2.8,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.6149732620320856,1.0,93.45,0.665,1,[]
+S0011,P0257,9,high,1.54,"('fractions',)","('fractions', 'integer_arithmetic')",0.5694444444444444,0.5833333333333334,94.33,0.672,1,[]
+S0011,P0284,9,middle,1.09,"('decimals',)","('decimals', 'integer_arithmetic')",0.5672514619883041,0.5555555555555556,62.13,0.576,1,[]
+S0011,P0401,9,elementary,1.55,"('fractions',)","('fractions', 'integer_arithmetic')",0.6076923076923078,0.6153846153846154,89.59,0.495,0,['fractions']
+S0011,P0036,9,high,2.87,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.6596825396825396,1.0,101.63,0.932,0,['ratios_proportions']
+S0011,P0428,9,elementary,1.07,"('integer_arithmetic',)","('integer_arithmetic',)",0.5454545454545454,0.5454545454545454,88.46,0.48,1,[]
+S0011,P0044,9,elementary,2.67,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5621343873517786,0.6666666666666666,109.06,0.784,1,[]
+S0011,P0407,9,middle,2.25,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.5529761904761905,0.6,105.03,0.826,1,[]
+S0011,P0119,9,high,1.39,"('exponents',)","('exponents', 'integer_arithmetic')",0.6333333333333333,0.6666666666666666,73.57,0.594,0,['exponents']
+S0011,P0045,9,middle,1.09,"('integer_arithmetic',)","('integer_arithmetic',)",0.5769230769230769,0.5769230769230769,82.76,0.705,1,[]
+S0011,P0139,9,high,1.87,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.38503086419753085,0.0,77.58,0.705,1,[]
+S0011,P0052,9,middle,2.68,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5148332060096765,0.25,94.03,0.606,0,"['percentages', 'ratios_proportions']"
+S0011,P0300,9,elementary,2.11,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4760447981137636,0.2,107.82,0.644,0,['percentages']
+S0012,P0238,9,middle,1.89,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",-1.0,-1.0,85.48,0.71,1,[]
+S0012,P0336,9,elementary,1.76,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",1.0,-1.0,86.57,0.74,0,"['geometry_area', 'fractions']"
+S0012,P0395,9,high,1.3,"('exponents',)","('exponents', 'integer_arithmetic')",0.5,-1.0,88.36,0.405,1,[]
+S0012,P0394,9,high,2.27,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.2222222222222222,-1.0,113.56,0.684,1,[]
+S0012,P0114,9,elementary,3.79,"('geometry_volume', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.8214285714285714,1.0,131.5,0.71,0,"['polynomials', 'quadratic_equations']"
+S0012,P0074,9,middle,2.46,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4666666666666667,-1.0,102.9,0.79,0,['ratios_proportions']
+S0012,P0097,9,high,3.22,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.25,0.5,122.2,0.554,0,['ratios_proportions']
+S0012,P0382,9,middle,0.99,"('integer_arithmetic',)","('integer_arithmetic',)",0.42857142857142855,0.42857142857142855,81.53,0.82,1,[]
+S0012,P0110,9,middle,2.43,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.175,0.0,109.88,0.812,1,[]
+S0012,P0356,9,middle,4.43,"('probability_basics', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'probability_basics', 'quadratic_equations', 'ratios_proportions')",0.28888888888888886,0.0,147.82,0.351,1,[]
+S0012,P0369,9,elementary,3.58,"('geometry_volume', 'polynomials')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'polynomials')",0.5040816326530612,0.5,150.46,0.753,0,"['polynomials', 'exponents', 'geometry_area']"
+S0012,P0284,9,middle,1.09,"('decimals',)","('decimals', 'integer_arithmetic')",0.5227272727272727,0.5,76.51,0.686,1,[]
+S0012,P0255,9,middle,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5116666666666667,0.5,121.19,0.637,1,[]
+S0012,P0317,9,middle,3.26,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.4942612942612943,0.4722222222222222,124.96,0.635,0,"['polynomials', 'quadratic_equations', 'exponents']"
+S0012,P0308,9,high,2.48,"('exponents', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.3886904761904762,0.325,98.59,0.677,0,"['polynomials', 'exponents']"
+S0012,P0116,9,high,1.4,"('algebraic_simplification', 'linear_equations')","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.4396825396825397,0.39285714285714285,86.91,0.592,1,[]
+S0012,P0175,9,elementary,1.84,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5572916666666666,0.6,66.26,0.578,0,"['ratios_proportions', 'fractions']"
+S0012,P0227,9,middle,2.62,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5928953399541635,1.0,108.74,0.863,0,"['percentages', 'ratios_proportions']"
+S0012,P0346,9,high,3.35,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.3814625850340136,0.3142857142857143,115.51,0.73,0,['polynomials']
+S0012,P0105,9,elementary,2.79,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.40020524066576696,0.375,121.27,0.588,0,['ratios_proportions']
+S0012,P0341,9,elementary,0.91,"('integer_arithmetic',)","('integer_arithmetic',)",0.45,0.45,72.1,0.61,0,['integer_arithmetic']
+S0012,P0383,9,elementary,1.75,"('fractions',)","('fractions', 'integer_arithmetic')",0.3571428571428571,0.2857142857142857,89.6,0.702,1,[]
+S0012,P0449,9,elementary,2.83,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4042424242424243,-1.0,113.84,0.879,1,[]
+S0012,P0238,9,middle,1.89,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.4705314009661836,0.6,94.9,0.654,0,"['algebraic_simplification', 'linear_equations', 'integer_arithmetic']"
+S0012,P0099,9,high,3.01,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4709090909090909,0.6666666666666666,113.99,0.443,0,"['percentages', 'ratios_proportions', 'fractions']"
+S0012,P0175,9,elementary,1.84,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.39331105169340463,0.36363636363636365,100.2,0.658,1,[]
+S0012,P0349,9,elementary,1.97,"('algebraic_simplification', 'fractions')","('algebraic_simplification', 'fractions', 'integer_arithmetic')",0.3834757834757834,0.34444444444444444,92.98,0.761,0,['fractions']
+S0012,P0442,9,middle,1.31,"('fractions',)","('fractions', 'integer_arithmetic')",0.4064327485380117,0.3684210526315789,83.08,0.348,1,[]
+S0012,P0454,9,high,1.64,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4356227106227107,0.4166666666666667,94.76,0.557,0,['ratios_proportions']
+S0012,P0440,9,middle,2.6,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.46181634457496523,0.6666666666666666,97.04,0.605,0,"['ratios_proportions', 'probability_basics', 'fractions']"
+S0013,P0293,9,high,1.41,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",-1.0,-1.0,88.64,0.932,1,[]
+S0013,P0427,9,high,2.51,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",1.0,1.0,115.17,0.719,0,['decimals']
+S0013,P0337,9,high,3.05,"('geometry_area', 'percentages')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.25,-1.0,117.54,0.914,1,[]
+S0013,P0470,9,middle,3.11,"('decimals', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.5416666666666666,0.5,118.06,0.927,0,"['polynomials', 'decimals']"
+S0013,P0174,9,elementary,1.43,"('integer_arithmetic',)","('integer_arithmetic',)",0.5,0.5,101.73,0.738,1,[]
+S0013,P0028,9,middle,2.2,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.7333333333333333,-1.0,98.1,0.763,1,[]
+S0013,P0178,9,elementary,2.09,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.8888888888888888,-1.0,95.26,0.88,0,"['geometry_area', 'geometry_volume', 'fractions']"
+S0013,P0040,9,high,1.26,"('fractions',)","('fractions', 'integer_arithmetic')",0.6190476190476191,0.6666666666666666,58.11,0.81,1,[]
+S0013,P0469,9,middle,2.32,"('fractions', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.775,0.875,102.47,0.902,1,[]
+S0013,P0191,9,middle,1.59,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.25,0.0,84.71,0.757,0,['polynomials']
+S0013,P0343,9,middle,4.43,"('data_interpretation', 'quadratic_equations')","('algebraic_simplification', 'data_interpretation', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'polynomials', 'quadratic_equations', 'ratios_proportions')",0.45833333333333337,0.0,131.46,0.864,0,['polynomials']
+S0013,P0236,9,middle,3.25,"('exponents', 'probability_basics')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.577020202020202,0.5,110.3,0.638,1,[]
+S0013,P0303,9,high,2.14,"('integer_arithmetic', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.25833333333333336,0.2916666666666667,107.06,0.99,1,[]
+S0013,P0460,9,high,2.49,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6735531135531134,0.6666666666666666,110.01,0.944,0,"['decimals', 'percentages']"
+S0013,P0224,9,high,2.85,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.45663265306122447,0.16666666666666666,108.03,0.99,0,"['decimals', 'percentages', 'ratios_proportions']"
+S0013,P0113,9,high,2.46,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5009523809523809,0.4,106.56,0.893,1,[]
+S0013,P0277,9,elementary,2.41,"('probability_basics', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.6575,0.8125,101.46,0.99,0,"['decimals', 'ratios_proportions']"
+S0013,P0354,9,middle,2.39,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.36628151260504205,0.25,106.47,0.99,1,[]
+S0013,P0016,9,middle,1.25,"('fractions',)","('fractions', 'integer_arithmetic')",0.5505050505050505,0.5454545454545454,50.48,0.759,0,"['fractions', 'integer_arithmetic']"
+S0013,P0085,9,elementary,1.12,"('exponents',)","('exponents', 'integer_arithmetic')",0.513157894736842,0.5,57.31,0.748,0,"['exponents', 'integer_arithmetic']"
+S0013,P0388,9,high,1.75,"('integer_arithmetic',)","('integer_arithmetic',)",0.5,0.5,89.18,0.827,1,[]
+S0013,P0316,9,high,2.03,"('decimals', 'fractions')","('decimals', 'fractions', 'integer_arithmetic')",0.49278499278499277,0.4772727272727273,102.02,0.758,0,['decimals']
+S0013,P0344,9,high,1.09,"('fractions',)","('fractions', 'integer_arithmetic')",0.4807692307692308,0.46153846153846156,67.06,0.901,1,[]
+S0013,P0389,9,elementary,1.49,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.4483695652173913,0.375,100.67,0.745,0,['algebraic_simplification']
+S0013,P0180,9,middle,2.54,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.41203703703703703,0.0,90.5,0.99,1,[]
+S0013,P0336,9,elementary,1.76,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5177777777777778,0.5,84.13,0.578,1,[]
+S0013,P0350,9,high,2.46,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4991666666666667,0.4666666666666667,77.82,0.932,0,"['decimals', 'ratios_proportions']"
+S0013,P0144,9,middle,1.47,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.4092592592592592,0.3,67.82,0.916,1,[]
+S0013,P0314,9,middle,1.72,"('fractions',)","('fractions', 'integer_arithmetic')",0.532563025210084,0.5294117647058824,83.32,0.602,1,[]
+S0013,P0224,9,high,2.85,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.47852913370154754,0.3484848484848485,102.7,0.874,1,[]
+S0014,P0162,11,high,1.56,"('decimals',)","('decimals', 'integer_arithmetic')",-1.0,-1.0,80.07,0.424,0,['decimals']
+S0014,P0056,11,high,2.82,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,-1.0,107.08,0.607,0,['polynomials']
+S0014,P0462,11,middle,1.84,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,-1.0,96.59,0.41,1,[]
+S0014,P0190,11,elementary,2.93,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4444444444444444,-1.0,97.43,0.504,0,"['percentages', 'ratios_proportions', 'decimals']"
+S0014,P0131,11,high,3.12,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.041666666666666664,0.0,135.83,0.334,0,['polynomials']
+S0014,P0462,11,middle,1.84,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5666666666666667,1.0,86.38,0.508,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0014,P0041,11,middle,3.6,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.08333333333333333,0.0,128.66,0.601,0,"['percentages', 'ratios_proportions']"
+S0014,P0485,11,elementary,2.13,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.047619047619047616,0.0,80.67,0.551,1,[]
+S0014,P0172,11,middle,2.55,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.1,0.0,117.61,0.383,1,[]
+S0014,P0166,11,elementary,3.27,"('integer_arithmetic', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.15277777777777776,0.16666666666666666,120.31,0.539,0,['polynomials']
+S0014,P0249,11,middle,1.27,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.39999999999999997,0.5,72.89,0.275,0,['geometry_area']
+S0014,P0192,11,middle,2.63,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.25378787878787873,0.0,105.64,0.247,0,"['percentages', 'ratios_proportions']"
+S0014,P0277,11,elementary,2.41,"('probability_basics', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.24642857142857144,0.25,110.01,0.248,0,"['probability_basics', 'ratios_proportions']"
+S0014,P0394,11,high,2.27,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.27136752136752135,-1.0,100.22,0.491,0,"['geometry_volume', 'geometry_area']"
+S0014,P0237,11,middle,2.8,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.16063492063492063,0.0,105.66,0.396,0,"['probability_basics', 'ratios_proportions']"
+S0014,P0229,11,high,2.86,"('exponents', 'ratios_proportions')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.14190476190476192,0.08333333333333333,118.89,0.438,0,['ratios_proportions']
+S0014,P0164,11,middle,2.81,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.12743506493506493,0.0,104.8,0.284,0,['probability_basics']
+S0014,P0242,11,high,3.0,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.20862745098039218,0.25,123.37,0.449,1,[]
+S0014,P0089,11,elementary,3.17,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.14606227106227104,0.0625,105.4,0.279,0,"['polynomials', 'ratios_proportions']"
+S0014,P0178,11,elementary,2.09,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.206203007518797,0.0,77.99,0.331,1,[]
+S0014,P0474,11,elementary,2.48,"('algebraic_simplification', 'geometry_volume')","('algebraic_simplification', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.3604761904761905,0.39285714285714285,102.26,0.366,0,"['algebraic_simplification', 'geometry_volume']"
+S0014,P0057,11,middle,2.85,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.2435185185185185,0.2222222222222222,98.06,0.433,0,['ratios_proportions']
+S0014,P0460,11,high,2.49,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.1806951871657754,0.25,91.43,0.592,1,[]
+S0014,P0262,11,high,1.57,"('exponents',)","('exponents', 'integer_arithmetic')",0.13043478260869565,0.0,71.98,0.38,0,['exponents']
+S0014,P0135,11,middle,3.29,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.21271043771043774,0.0,123.51,0.438,1,[]
+S0014,P0237,11,middle,2.8,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.21531174089068825,0.0,94.74,0.458,0,"['probability_basics', 'ratios_proportions']"
+S0014,P0306,11,elementary,1.35,"('integer_arithmetic',)","('integer_arithmetic',)",0.2692307692307692,0.2692307692307692,87.42,0.451,1,[]
+S0014,P0242,11,high,3.0,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.3242592592592593,0.3875,97.61,0.238,0,"['algebraic_simplification', 'geometry_area']"
+S0014,P0150,11,middle,3.79,"('data_interpretation', 'geometry_volume')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.30414377289377287,0.29166666666666663,112.56,0.552,0,['percentages']
+S0014,P0345,11,middle,2.67,"('fractions', 'polynomials')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials')",0.15416231278300244,0.13636363636363635,91.38,0.41,0,['polynomials']
+S0015,P0172,11,middle,2.55,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",-1.0,-1.0,91.18,0.692,0,['percentages']
+S0015,P0276,11,high,1.06,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,70.1,0.464,0,"['fractions', 'integer_arithmetic']"
+S0015,P0333,11,elementary,1.91,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,110.26,0.767,1,[]
+S0015,P0228,11,middle,1.98,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.3333333333333333,-1.0,84.06,0.696,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0015,P0405,11,middle,1.69,"('algebraic_simplification', 'integer_arithmetic')","('algebraic_simplification', 'integer_arithmetic')",0.25,0.25,78.0,0.801,0,['integer_arithmetic']
+S0015,P0029,11,elementary,3.16,"('data_interpretation', 'integer_arithmetic')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.29,0.2,124.97,0.545,0,"['data_interpretation', 'percentages']"
+S0015,P0022,11,elementary,1.47,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.12222222222222223,0.0,91.74,0.689,0,['geometry_area']
+S0015,P0004,11,elementary,2.75,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.1952380952380952,0.0,100.02,0.473,0,['percentages']
+S0015,P0062,11,middle,2.59,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.15357142857142855,0.0,103.58,0.99,0,"['percentages', 'decimals']"
+S0015,P0220,11,middle,1.29,"('integer_arithmetic',)","('integer_arithmetic',)",0.1111111111111111,0.1111111111111111,59.92,0.58,1,[]
+S0015,P0314,11,middle,1.72,"('fractions',)","('fractions', 'integer_arithmetic')",0.1625,0.125,77.25,0.645,0,"['fractions', 'integer_arithmetic']"
+S0015,P0477,11,middle,1.99,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.09090909090909091,-1.0,95.82,0.835,1,[]
+S0015,P0081,11,high,2.05,"('decimals', 'geometry_area')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic')",0.14027777777777778,0.1,100.2,0.654,1,[]
+S0015,P0493,11,middle,2.24,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3082051282051282,0.35,103.91,0.622,1,[]
+S0015,P0241,11,high,2.16,"('fractions',)","('fractions', 'integer_arithmetic')",0.31493506493506496,0.2727272727272727,77.31,0.827,0,"['fractions', 'integer_arithmetic']"
+S0015,P0252,11,middle,2.05,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.5,-1.0,100.36,0.914,1,[]
+S0015,P0051,11,elementary,2.42,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.78125,1.0,96.87,0.662,0,['polynomials']
+S0015,P0320,11,high,3.53,"('quadratic_equations', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations', 'ratios_proportions')",0.4956057422969188,0.3333333333333333,141.75,0.744,1,[]
+S0015,P0038,11,middle,1.4,"('fractions',)","('fractions', 'integer_arithmetic')",0.3482905982905983,0.3076923076923077,70.37,0.588,0,['fractions']
+S0015,P0464,11,middle,2.07,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.5308270676691729,0.6666666666666666,100.23,0.569,0,"['geometry_area', 'fractions']"
+S0015,P0258,11,elementary,2.17,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3863095238095238,0.42857142857142855,98.65,0.728,1,[]
+S0015,P0425,11,high,2.86,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.43725198412698413,-1.0,106.42,0.748,1,[]
+S0015,P0326,11,high,3.56,"('geometry_area', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.5729325821237585,0.625,128.95,0.77,0,"['geometry_area', 'quadratic_equations', 'polynomials']"
+S0015,P0410,11,high,2.16,"('integer_arithmetic', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.3760386473429952,0.1956521739130435,79.72,0.705,0,"['percentages', 'decimals']"
+S0015,P0411,11,high,2.0,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.4375,0.5,89.19,0.77,1,[]
+S0015,P0491,11,middle,3.78,"('data_interpretation', 'geometry_volume')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.2801777170198223,0.0,120.06,0.77,0,"['data_interpretation', 'geometry_area', 'percentages']"
+S0015,P0437,11,elementary,3.09,"('geometry_volume', 'probability_basics')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.4008325008325008,0.5,116.22,0.896,1,[]
+S0015,P0478,11,high,1.63,"('fractions',)","('fractions', 'integer_arithmetic')",0.37037037037037035,0.3333333333333333,99.59,0.831,0,"['fractions', 'integer_arithmetic']"
+S0015,P0270,11,middle,3.66,"('polynomials', 'probability_basics')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'probability_basics', 'ratios_proportions')",0.5381320068820069,0.75,132.71,0.598,0,"['decimals', 'polynomials', 'exponents']"
+S0015,P0436,11,middle,2.97,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.2741994387421674,0.0,117.06,0.414,0,['data_interpretation']
+S0016,P0110,8,middle,2.43,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",-1.0,-1.0,94.39,0.796,1,[]
+S0016,P0067,8,elementary,1.54,"('fractions',)","('fractions', 'integer_arithmetic')",1.0,1.0,78.32,0.613,0,"['fractions', 'integer_arithmetic']"
+S0016,P0182,8,elementary,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.75,-1.0,105.98,0.431,0,"['probability_basics', 'ratios_proportions']"
+S0016,P0372,8,elementary,4.5,"('percentages', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'polynomials', 'quadratic_equations', 'ratios_proportions')",0.5333333333333333,1.0,125.88,0.877,0,['ratios_proportions']
+S0016,P0195,8,middle,2.36,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.29166666666666663,0.3333333333333333,118.77,0.696,0,"['ratios_proportions', 'decimals']"
+S0016,P0125,8,high,2.44,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.18,0.0,104.01,0.641,0,['probability_basics']
+S0016,P0174,8,elementary,1.43,"('integer_arithmetic',)","('integer_arithmetic',)",0.16666666666666666,0.16666666666666666,97.82,0.699,1,[]
+S0016,P0261,8,middle,1.54,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.07142857142857142,0.0,77.32,0.447,1,[]
+S0016,P0374,8,middle,2.44,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.2708333333333333,-1.0,111.22,0.626,0,['geometry_area']
+S0016,P0411,8,high,2.0,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.41666666666666663,0.5,89.72,0.533,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0016,P0285,8,high,1.99,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.2111111111111111,0.0,102.63,0.767,0,"['linear_equations', 'algebraic_simplification', 'integer_arithmetic']"
+S0016,P0154,8,high,1.59,"('fractions',)","('fractions', 'integer_arithmetic')",0.20779220779220778,0.14285714285714285,77.76,0.504,1,[]
+S0016,P0068,8,middle,3.47,"('linear_equations', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.2476190476190476,0.25,119.48,0.767,0,['ratios_proportions']
+S0016,P0107,8,middle,2.22,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",0.2519230769230769,0.25,101.52,0.652,0,"['linear_equations', 'algebraic_simplification']"
+S0016,P0422,8,elementary,1.81,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2103174603174603,0.16666666666666666,100.32,0.737,1,[]
+S0016,P0034,8,high,2.89,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.30761904761904757,0.30952380952380953,112.65,0.648,1,[]
+S0016,P0358,8,elementary,2.24,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.34375,0.5,100.62,0.737,0,"['algebraic_simplification', 'polynomials', 'integer_arithmetic']"
+S0016,P0043,8,middle,2.3,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.39331550802139037,0.5,128.56,0.716,1,[]
+S0016,P0142,8,middle,3.47,"('percentages', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'probability_basics', 'ratios_proportions')",0.38240740740740736,0.3,124.35,0.729,0,"['probability_basics', 'ratios_proportions']"
+S0016,P0210,8,middle,1.22,"('fractions',)","('fractions', 'integer_arithmetic')",0.3765182186234818,0.38461538461538464,88.19,0.564,0,"['fractions', 'integer_arithmetic']"
+S0016,P0477,8,middle,1.99,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.26904761904761904,0.3333333333333333,104.59,0.725,1,[]
+S0016,P0485,8,elementary,2.13,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.21031746031746032,0.0,88.07,0.482,0,"['linear_equations', 'algebraic_simplification']"
+S0016,P0415,8,high,2.39,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3801948051948052,0.4,105.76,0.636,1,[]
+S0016,P0487,8,high,2.69,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.3400790513833992,0.0,96.53,0.593,0,['probability_basics']
+S0016,P0284,8,middle,1.09,"('decimals',)","('decimals', 'integer_arithmetic')",0.39583333333333337,0.4166666666666667,79.47,0.78,1,[]
+S0016,P0446,8,middle,2.13,"('exponents', 'ratios_proportions')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4106410256410256,0.4083333333333333,120.59,0.691,1,[]
+S0016,P0005,8,middle,1.82,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.44909502262443435,0.46153846153846156,103.52,0.633,1,[]
+S0016,P0217,8,high,1.52,"('fractions',)","('fractions', 'integer_arithmetic')",0.4444444444444444,0.4444444444444444,90.14,0.747,0,['fractions']
+S0016,P0026,8,middle,3.27,"('exponents', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.2751322751322751,0.25,117.92,0.546,1,[]
+S0016,P0226,8,high,3.03,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.48201291405854535,0.55,123.95,0.616,1,[]
+S0017,P0379,8,elementary,1.62,"('exponents',)","('exponents', 'integer_arithmetic')",-1.0,-1.0,108.55,0.242,0,"['exponents', 'integer_arithmetic']"
+S0017,P0462,8,middle,1.84,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,-1.0,102.92,0.573,0,['fractions']
+S0017,P0461,8,high,1.6,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,-1.0,90.4,0.376,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0017,P0200,8,elementary,2.09,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,-1.0,109.25,0.023,0,"['ratios_proportions', 'decimals']"
+S0017,P0491,8,middle,3.78,"('data_interpretation', 'geometry_volume')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,135.07,0.369,0,['percentages']
+S0017,P0292,8,middle,2.69,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,122.71,0.434,0,"['percentages', 'ratios_proportions']"
+S0017,P0285,8,high,1.99,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.0,-1.0,98.81,0.592,0,"['algebraic_simplification', 'linear_equations']"
+S0017,P0220,8,middle,1.29,"('integer_arithmetic',)","('integer_arithmetic',)",0.0,0.0,80.51,0.435,0,['integer_arithmetic']
+S0017,P0406,8,elementary,2.77,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,-1.0,88.17,0.37,0,"['polynomials', 'quadratic_equations']"
+S0017,P0161,8,middle,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,86.55,0.383,0,"['ratios_proportions', 'decimals']"
+S0017,P0447,8,high,2.67,"('algebraic_simplification', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,119.77,0.327,0,['percentages']
+S0017,P0182,8,elementary,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,115.01,0.458,0,"['ratios_proportions', 'decimals', 'fractions']"
+S0017,P0454,8,high,1.64,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,59.11,0.322,0,['ratios_proportions']
+S0017,P0372,8,elementary,4.5,"('percentages', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'polynomials', 'quadratic_equations', 'ratios_proportions')",0.0,0.0,163.4,0.218,0,"['percentages', 'polynomials', 'ratios_proportions']"
+S0017,P0264,8,elementary,1.76,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.0,0.0,87.21,0.147,0,"['algebraic_simplification', 'linear_equations']"
+S0017,P0497,8,middle,1.66,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,0.0,88.5,0.366,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0017,P0131,8,high,3.12,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,151.97,0.412,0,['polynomials']
+S0017,P0321,8,elementary,2.46,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,103.6,0.177,0,"['polynomials', 'quadratic_equations', 'exponents']"
+S0017,P0119,8,high,1.39,"('exponents',)","('exponents', 'integer_arithmetic')",0.0,0.0,82.47,0.256,0,"['exponents', 'integer_arithmetic']"
+S0017,P0379,8,elementary,1.62,"('exponents',)","('exponents', 'integer_arithmetic')",0.0,0.0,69.16,0.215,0,"['exponents', 'integer_arithmetic']"
+S0017,P0218,8,high,2.17,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.0,0.0,99.79,0.305,0,['fractions']
+S0017,P0416,8,middle,1.93,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,108.85,0.584,0,"['fractions', 'geometry_area', 'integer_arithmetic']"
+S0017,P0159,8,elementary,2.28,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,104.86,0.444,0,"['ratios_proportions', 'decimals']"
+S0017,P0299,8,middle,2.1,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,99.83,0.227,0,['ratios_proportions']
+S0017,P0108,8,middle,1.7,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,104.05,0.354,0,['fractions']
+S0017,P0237,8,middle,2.8,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,107.07,0.251,0,"['ratios_proportions', 'decimals', 'fractions']"
+S0017,P0292,8,middle,2.69,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,95.26,0.356,0,"['percentages', 'ratios_proportions', 'decimals']"
+S0017,P0474,8,elementary,2.48,"('algebraic_simplification', 'geometry_volume')","('algebraic_simplification', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.0,0.0,102.21,0.467,1,[]
+S0017,P0475,8,middle,3.09,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.032422969187675066,0.05,125.97,0.334,0,"['ratios_proportions', 'decimals', 'fractions']"
+S0017,P0066,8,middle,2.68,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.015006385696040868,0.0,102.09,0.406,0,"['percentages', 'ratios_proportions']"
+S0018,P0249,7,middle,1.27,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",-1.0,-1.0,95.66,0.282,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0018,P0139,7,high,1.87,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,76.91,0.283,0,"['geometry_area', 'fractions']"
+S0018,P0334,7,middle,3.07,"('linear_equations', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.0,-1.0,100.14,0.552,0,"['percentages', 'ratios_proportions', 'decimals']"
+S0018,P0037,7,middle,1.43,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,0.0,81.31,0.544,0,['algebraic_simplification']
+S0018,P0121,7,elementary,2.79,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,113.0,0.409,0,"['ratios_proportions', 'probability_basics']"
+S0018,P0407,7,middle,2.25,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.0,-1.0,91.41,0.415,0,"['polynomials', 'algebraic_simplification', 'exponents']"
+S0018,P0064,7,high,2.71,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,96.68,0.668,0,"['percentages', 'data_interpretation', 'ratios_proportions']"
+S0018,P0145,7,elementary,1.74,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,92.99,0.476,0,"['fractions', 'integer_arithmetic']"
+S0018,P0301,7,elementary,2.49,"('integer_arithmetic', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,107.51,0.58,0,"['ratios_proportions', 'decimals']"
+S0018,P0124,7,middle,1.05,"('decimals',)","('decimals', 'integer_arithmetic')",0.0,0.0,73.02,0.601,0,"['decimals', 'integer_arithmetic']"
+S0018,P0311,7,middle,1.63,"('decimals',)","('decimals', 'integer_arithmetic')",0.0,0.0,89.33,0.413,0,['decimals']
+S0018,P0190,7,elementary,2.93,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,133.03,0.339,0,['percentages']
+S0018,P0262,7,high,1.57,"('exponents',)","('exponents', 'integer_arithmetic')",0.0,0.0,95.27,0.49,0,"['exponents', 'integer_arithmetic']"
+S0018,P0489,7,middle,1.67,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,86.99,0.488,0,"['geometry_area', 'fractions']"
+S0018,P0360,7,middle,1.4,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,75.64,0.338,0,"['geometry_area', 'fractions']"
+S0018,P0449,7,elementary,2.83,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,116.07,0.645,0,['percentages']
+S0018,P0295,7,middle,2.17,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,120.09,0.54,0,"['ratios_proportions', 'probability_basics', 'decimals']"
+S0018,P0181,7,middle,1.45,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,85.42,0.235,0,"['fractions', 'integer_arithmetic']"
+S0018,P0158,7,high,3.28,"('polynomials', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,133.23,0.598,0,['quadratic_equations']
+S0018,P0352,7,middle,1.79,"('decimals', 'exponents')","('decimals', 'exponents', 'integer_arithmetic')",0.0,0.0,117.2,0.524,0,"['decimals', 'exponents', 'integer_arithmetic']"
+S0018,P0307,7,middle,2.93,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,112.72,0.533,0,"['quadratic_equations', 'polynomials']"
+S0018,P0477,7,middle,1.99,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.0,0.0,97.26,0.482,0,"['polynomials', 'algebraic_simplification']"
+S0018,P0286,7,middle,1.56,"('integer_arithmetic',)","('integer_arithmetic',)",0.0,0.0,72.16,0.571,0,['integer_arithmetic']
+S0018,P0161,7,middle,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,112.46,0.671,0,['ratios_proportions']
+S0018,P0262,7,high,1.57,"('exponents',)","('exponents', 'integer_arithmetic')",0.0,0.0,83.15,0.386,1,[]
+S0018,P0216,7,elementary,1.19,"('integer_arithmetic',)","('integer_arithmetic',)",0.04,0.04,98.46,0.612,0,['integer_arithmetic']
+S0018,P0399,7,middle,2.44,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.04532967032967033,0.0,74.91,0.527,0,"['polynomials', 'algebraic_simplification']"
+S0018,P0405,7,middle,1.69,"('algebraic_simplification', 'integer_arithmetic')","('algebraic_simplification', 'integer_arithmetic')",0.018518518518518517,0.018518518518518517,90.47,0.35,0,['algebraic_simplification']
+S0018,P0483,7,middle,1.15,"('integer_arithmetic',)","('integer_arithmetic',)",0.03571428571428571,0.03571428571428571,84.28,0.594,0,['integer_arithmetic']
+S0018,P0180,7,middle,2.54,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.005747126436781609,0.0,113.23,0.589,0,['percentages']
+S0019,P0077,6,high,2.29,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",-1.0,-1.0,79.84,0.771,0,['geometry_area']
+S0019,P0495,6,high,1.93,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,90.77,0.888,0,"['fractions', 'integer_arithmetic']"
+S0019,P0430,6,high,2.17,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.0,-1.0,87.52,0.576,1,[]
+S0019,P0206,6,middle,2.71,"('exponents', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.3333333333333333,-1.0,96.93,0.758,1,[]
+S0019,P0034,6,high,2.89,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.41666666666666663,-1.0,98.3,0.863,1,[]
+S0019,P0249,6,middle,1.27,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5333333333333333,0.5,36.93,0.805,1,[]
+S0019,P0070,6,high,2.55,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.8533333333333333,-1.0,94.86,0.807,0,['data_interpretation']
+S0019,P0412,6,middle,2.14,"('integer_arithmetic', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5178571428571428,0.5714285714285714,90.38,0.701,1,[]
+S0019,P0363,6,middle,1.72,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.621031746031746,0.6666666666666666,89.22,0.64,0,"['geometry_area', 'fractions']"
+S0019,P0309,6,high,2.88,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.48148148148148145,0.0,125.09,0.782,0,"['data_interpretation', 'ratios_proportions']"
+S0019,P0469,6,middle,2.32,"('fractions', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.45555555555555555,0.38888888888888884,96.63,0.807,1,[]
+S0019,P0278,6,high,2.44,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.7151515151515152,0.6,88.53,0.454,0,['linear_equations']
+S0019,P0151,6,high,3.97,"('percentages', 'polynomials')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'polynomials', 'ratios_proportions')",0.6375,0.75,114.33,0.742,0,"['ratios_proportions', 'polynomials']"
+S0019,P0226,6,high,3.03,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.4539983825698112,0.5,96.76,0.728,0,['ratios_proportions']
+S0019,P0242,6,high,3.0,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.3190476190476191,0.25,85.46,0.782,1,[]
+S0019,P0009,6,middle,1.74,"('fractions',)","('fractions', 'integer_arithmetic')",0.4641025641025641,0.46153846153846156,62.83,0.735,1,[]
+S0019,P0316,6,high,2.03,"('decimals', 'fractions')","('decimals', 'fractions', 'integer_arithmetic')",0.4583333333333333,0.4375,97.47,0.909,0,"['decimals', 'fractions']"
+S0019,P0391,6,elementary,1.51,"('decimals',)","('decimals', 'integer_arithmetic')",0.4019607843137255,0.3333333333333333,45.93,0.737,1,[]
+S0019,P0047,6,high,1.91,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.39166666666666666,0.3333333333333333,127.62,0.756,1,[]
+S0019,P0111,6,elementary,2.95,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.5702589807852966,0.7142857142857143,95.99,0.92,1,[]
+S0019,P0203,6,middle,2.02,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.5166666666666667,0.5,97.66,0.445,0,"['linear_equations', 'algebraic_simplification']"
+S0019,P0476,6,elementary,3.35,"('linear_equations', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.45714285714285713,0.3333333333333333,120.54,0.798,1,[]
+S0019,P0381,6,middle,2.82,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.39999999999999997,0.0,105.34,0.708,0,"['data_interpretation', 'ratios_proportions', 'decimals']"
+S0019,P0156,6,high,2.52,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.43735436203466893,0.3333333333333333,98.66,0.736,1,[]
+S0019,P0342,6,middle,0.63,"('exponents',)","('exponents', 'integer_arithmetic')",0.5708333333333333,0.6,48.25,0.701,0,"['exponents', 'integer_arithmetic']"
+S0019,P0025,6,high,2.27,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4953846153846154,0.5,107.46,0.63,1,[]
+S0019,P0420,6,middle,2.75,"('linear_equations', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials')",0.5276923076923077,0.55,99.57,0.806,1,[]
+S0019,P0479,6,elementary,1.67,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.5703703703703704,0.6,67.67,0.517,0,['linear_equations']
+S0019,P0307,6,middle,2.93,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.628968253968254,1.0,116.09,0.774,0,"['linear_equations', 'polynomials', 'exponents']"
+S0019,P0165,6,elementary,2.24,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.5108038513210926,0.5714285714285714,64.1,0.813,1,[]
+S0020,P0174,5,elementary,1.43,"('integer_arithmetic',)","('integer_arithmetic',)",-1.0,-1.0,112.06,0.565,0,['integer_arithmetic']
+S0020,P0074,5,middle,2.46,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,-1.0,95.17,0.502,0,['ratios_proportions']
+S0020,P0284,5,middle,1.09,"('decimals',)","('decimals', 'integer_arithmetic')",0.0,0.0,86.48,0.608,0,['decimals']
+S0020,P0126,5,middle,2.38,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.0,-1.0,119.94,0.385,0,"['geometry_area', 'algebraic_simplification']"
+S0020,P0489,5,middle,1.67,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,88.81,0.625,0,['geometry_area']
+S0020,P0482,5,elementary,2.63,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,102.36,0.33,0,"['percentages', 'ratios_proportions']"
+S0020,P0048,5,middle,1.85,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,110.18,0.419,0,"['fractions', 'integer_arithmetic']"
+S0020,P0456,5,middle,1.21,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,0.0,93.99,0.431,0,['algebraic_simplification']
+S0020,P0031,5,elementary,2.74,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,121.45,0.353,0,"['probability_basics', 'ratios_proportions']"
+S0020,P0157,5,high,3.24,"('data_interpretation', 'geometry_area')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,120.5,0.45,0,"['geometry_area', 'percentages']"
+S0020,P0014,5,high,1.9,"('integer_arithmetic', 'linear_equations')","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.0,0.0,91.72,0.577,0,"['algebraic_simplification', 'linear_equations']"
+S0020,P0317,5,middle,3.26,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,114.74,0.354,0,"['polynomials', 'quadratic_equations']"
+S0020,P0333,5,elementary,1.91,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,97.62,0.502,0,"['ratios_proportions', 'decimals', 'fractions']"
+S0020,P0242,5,high,3.0,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.0,0.0,113.84,0.396,0,['geometry_area']
+S0020,P0016,5,middle,1.25,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,105.65,0.635,0,['fractions']
+S0020,P0021,5,elementary,3.12,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,131.62,0.413,0,"['geometry_area', 'ratios_proportions', 'decimals']"
+S0020,P0243,5,elementary,1.65,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,0.0,87.95,0.451,0,['algebraic_simplification']
+S0020,P0413,5,elementary,2.41,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,91.13,0.164,0,"['ratios_proportions', 'decimals', 'algebraic_simplification']"
+S0020,P0080,5,high,3.13,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.0,0.0,114.58,0.376,0,['polynomials']
+S0020,P0143,5,middle,1.95,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,108.52,0.407,0,"['geometry_area', 'fractions']"
+S0020,P0435,5,high,1.95,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,100.83,0.26,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0020,P0007,5,elementary,1.65,"('decimals',)","('decimals', 'integer_arithmetic')",0.0,0.0,89.58,0.517,0,['decimals']
+S0020,P0447,5,high,2.67,"('algebraic_simplification', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,113.87,0.403,1,[]
+S0020,P0166,5,elementary,3.27,"('integer_arithmetic', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.02576489533011272,0.021739130434782608,129.25,0.485,0,"['polynomials', 'quadratic_equations', 'algebraic_simplification']"
+S0020,P0286,5,middle,1.56,"('integer_arithmetic',)","('integer_arithmetic',)",0.041666666666666664,0.041666666666666664,94.01,0.287,0,['integer_arithmetic']
+S0020,P0267,5,elementary,1.32,"('exponents',)","('exponents', 'integer_arithmetic')",0.02,0.0,75.04,0.432,0,"['exponents', 'integer_arithmetic']"
+S0020,P0288,5,elementary,2.65,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.13185897435897437,0.3333333333333333,110.25,0.54,0,['percentages']
+S0020,P0185,5,elementary,1.34,"('decimals',)","('decimals', 'integer_arithmetic')",0.06397306397306397,0.09090909090909091,83.85,0.289,0,"['decimals', 'integer_arithmetic']"
+S0020,P0011,5,middle,2.2,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.023634453781512604,0.0,100.74,0.4,0,['geometry_area']
+S0020,P0280,5,middle,2.04,"('exponents',)","('exponents', 'integer_arithmetic')",0.017241379310344827,0.0,67.68,0.473,0,['exponents']
+S0021,P0451,5,middle,1.79,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",-1.0,-1.0,105.92,0.405,0,"['ratios_proportions', 'fractions']"
+S0021,P0243,5,elementary,1.65,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,-1.0,95.51,0.237,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0021,P0319,5,high,1.58,"('fractions', 'linear_equations')","('algebraic_simplification', 'fractions', 'integer_arithmetic', 'linear_equations')",0.0,0.0,106.88,0.074,1,[]
+S0021,P0000,5,elementary,1.57,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.41666666666666663,-1.0,90.65,0.202,0,"['geometry_area', 'fractions']"
+S0021,P0088,5,middle,1.98,"('geometry_area', 'geometry_volume')","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.19444444444444442,0.0,100.59,0.399,0,"['geometry_area', 'fractions']"
+S0021,P0281,5,high,2.37,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.1125,0.0,103.3,0.452,0,"['ratios_proportions', 'fractions']"
+S0021,P0138,5,middle,2.32,"('fractions', 'geometry_volume')","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.09166666666666667,0.1,112.5,0.209,0,"['geometry_area', 'fractions', 'geometry_volume']"
+S0021,P0086,5,middle,1.4,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.5476190476190476,1.0,89.43,0.347,0,['algebraic_simplification']
+S0021,P0001,5,high,1.58,"('fractions',)","('fractions', 'integer_arithmetic')",0.14583333333333331,0.16666666666666666,79.8,0.475,0,"['fractions', 'integer_arithmetic']"
+S0021,P0466,5,middle,2.17,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.2222222222222222,-1.0,106.99,0.401,0,"['polynomials', 'exponents', 'algebraic_simplification']"
+S0021,P0348,5,high,1.34,"('decimals',)","('decimals', 'integer_arithmetic')",0.05,0.0,84.1,0.321,0,"['decimals', 'integer_arithmetic']"
+S0021,P0167,5,elementary,1.72,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.17045454545454547,0.25,109.09,0.326,1,[]
+S0021,P0118,5,high,2.94,"('decimals', 'polynomials')","('algebraic_simplification', 'decimals', 'exponents', 'integer_arithmetic', 'polynomials')",0.11333333333333333,0.0,124.99,0.306,0,"['polynomials', 'exponents']"
+S0021,P0499,5,elementary,1.55,"('fractions', 'geometry_area')","('fractions', 'geometry_area', 'integer_arithmetic')",0.0989010989010989,0.07142857142857142,109.2,0.395,0,['geometry_area']
+S0021,P0387,5,high,1.01,"('integer_arithmetic',)","('integer_arithmetic',)",0.14285714285714285,0.14285714285714285,82.61,0.284,0,['integer_arithmetic']
+S0021,P0079,5,high,1.51,"('fractions',)","('fractions', 'integer_arithmetic')",0.12916666666666665,0.125,81.78,0.403,0,['fractions']
+S0021,P0110,5,middle,2.43,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.059027777777777776,0.0,127.43,0.326,0,"['percentages', 'ratios_proportions', 'fractions']"
+S0021,P0164,5,middle,2.81,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.054411764705882354,-1.0,101.44,0.459,0,"['ratios_proportions', 'probability_basics']"
+S0021,P0381,5,middle,2.82,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0404040404040404,-1.0,109.55,0.204,0,['percentages']
+S0021,P0444,5,high,3.5,"('data_interpretation', 'exponents')","('data_interpretation', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.026942355889724306,0.0,109.45,0.378,0,['percentages']
+S0021,P0218,5,high,2.17,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.04423076923076923,0.0,116.87,0.175,0,"['geometry_area', 'fractions']"
+S0021,P0004,5,elementary,2.75,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.03333333333333333,0.0,109.0,0.313,0,"['percentages', 'ratios_proportions', 'fractions']"
+S0021,P0398,5,high,1.88,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.30808080808080807,0.5,86.46,0.569,0,['algebraic_simplification']
+S0021,P0214,5,high,1.76,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.03840579710144927,0.0,77.3,0.387,0,"['ratios_proportions', 'fractions', 'decimals']"
+S0021,P0496,5,middle,1.6,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.048611111111111105,0.0,99.69,0.261,0,"['geometry_area', 'fractions']"
+S0021,P0194,5,middle,2.11,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.233015873015873,0.3333333333333333,87.74,0.319,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0021,P0465,5,middle,3.0,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.022624434389140274,0.0,96.07,0.512,0,"['percentages', 'data_interpretation']"
+S0021,P0490,5,middle,2.04,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.032407407407407406,0.0,93.86,0.27,1,[]
+S0021,P0281,5,high,2.37,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0531015037593985,0.0,97.64,0.561,1,[]
+S0021,P0005,5,middle,1.82,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.11781609195402298,0.1,106.01,0.423,0,"['ratios_proportions', 'fractions', 'decimals']"
+S0022,P0439,11,middle,3.05,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",-1.0,-1.0,103.68,0.34,1,[]
+S0022,P0239,11,high,2.41,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",1.0,1.0,107.75,0.303,0,"['ratios_proportions', 'decimals', 'fractions']"
+S0022,P0036,11,high,2.87,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5,-1.0,107.65,0.446,1,[]
+S0022,P0231,11,middle,1.3,"('decimals',)","('decimals', 'integer_arithmetic')",0.6666666666666666,0.6666666666666666,64.65,0.635,1,[]
+S0022,P0399,11,middle,2.44,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.75,-1.0,101.11,0.782,0,"['exponents', 'polynomials']"
+S0022,P0212,11,middle,1.0,"('integer_arithmetic',)","('integer_arithmetic',)",0.6,0.6,77.34,0.652,1,[]
+S0022,P0192,11,middle,2.63,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.7499999999999999,-1.0,116.49,0.537,0,"['data_interpretation', 'percentages', 'ratios_proportions']"
+S0022,P0059,11,high,1.63,"('geometry_area', 'integer_arithmetic')","('fractions', 'geometry_area', 'integer_arithmetic')",0.5357142857142857,0.5714285714285714,86.07,0.511,1,[]
+S0022,P0188,11,high,2.41,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.15625,0.0,91.34,0.516,0,['exponents']
+S0022,P0266,11,middle,2.37,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5511111111111111,0.5,95.49,0.656,1,[]
+S0022,P0125,11,high,2.44,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.7066666666666667,1.0,94.89,0.631,0,"['probability_basics', 'ratios_proportions']"
+S0022,P0202,11,high,1.92,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.570995670995671,0.6666666666666666,94.36,0.595,1,[]
+S0022,P0321,11,elementary,2.46,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.14583333333333334,-1.0,90.19,0.615,1,[]
+S0022,P0381,11,middle,2.82,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5311355311355311,0.0,115.99,0.499,0,"['data_interpretation', 'percentages']"
+S0022,P0031,11,elementary,2.74,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5365079365079366,0.5,103.73,0.552,1,[]
+S0022,P0402,11,high,1.94,"('fractions', 'geometry_volume')","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.7333333333333334,0.6,98.1,0.67,0,['geometry_area']
+S0022,P0311,11,middle,1.63,"('decimals',)","('decimals', 'integer_arithmetic')",0.58125,0.6,76.39,0.566,1,[]
+S0022,P0260,11,middle,2.55,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5814022578728462,0.5555555555555556,83.02,0.626,1,[]
+S0022,P0386,11,elementary,2.89,"('data_interpretation', 'percentages')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5101851851851852,0.3,123.56,0.424,0,"['data_interpretation', 'percentages']"
+S0022,P0411,11,high,2.0,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.45614035087719296,0.3333333333333333,79.86,0.734,0,"['integer_arithmetic', 'algebraic_simplification']"
+S0022,P0345,11,middle,2.67,"('fractions', 'polynomials')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials')",0.40102564102564103,0.4358974358974359,129.82,0.77,1,[]
+S0022,P0470,11,middle,3.11,"('decimals', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.6552590266875981,0.8076923076923077,89.82,0.557,0,"['quadratic_equations', 'exponents']"
+S0022,P0093,11,elementary,0.99,"('integer_arithmetic',)","('integer_arithmetic',)",0.5454545454545454,0.5454545454545454,72.75,0.605,1,[]
+S0022,P0327,11,middle,2.69,"('polynomials', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.4497584541062802,0.45,118.98,0.805,1,[]
+S0022,P0099,11,high,3.01,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5543290043290043,0.5,109.82,0.558,0,"['percentages', 'ratios_proportions']"
+S0022,P0284,11,middle,1.09,"('decimals',)","('decimals', 'integer_arithmetic')",0.5466666666666666,0.5333333333333333,82.09,0.572,1,[]
+S0022,P0460,11,high,2.49,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5202655677655678,0.42857142857142855,92.55,0.673,0,"['percentages', 'ratios_proportions']"
+S0022,P0314,11,middle,1.72,"('fractions',)","('fractions', 'integer_arithmetic')",0.5277777777777778,0.5,88.03,0.702,1,[]
+S0022,P0024,11,middle,2.76,"('linear_equations', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials')",0.5333333333333333,0.5833333333333333,99.64,0.567,1,[]
+S0022,P0405,11,middle,1.69,"('algebraic_simplification', 'integer_arithmetic')","('algebraic_simplification', 'integer_arithmetic')",0.5431034482758621,0.5431034482758621,91.39,0.605,1,[]
+S0023,P0247,9,middle,2.33,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",-1.0,-1.0,105.55,0.558,1,[]
+S0023,P0433,9,middle,1.96,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",1.0,-1.0,84.06,0.825,1,[]
+S0023,P0041,9,middle,3.6,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",1.0,1.0,122.34,0.627,0,"['algebraic_simplification', 'data_interpretation', 'decimals']"
+S0023,P0288,9,elementary,2.65,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.2333333333333333,0.0,82.02,0.532,0,['decimals']
+S0023,P0122,9,high,1.43,"('fractions', 'integer_arithmetic')","('fractions', 'integer_arithmetic')",0.41666666666666663,0.41666666666666663,87.99,0.522,1,[]
+S0023,P0026,9,middle,3.27,"('exponents', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.7000000000000001,-1.0,106.12,0.65,1,[]
+S0023,P0461,9,high,1.6,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.6666666666666666,0.6666666666666666,92.14,0.641,0,['algebraic_simplification']
+S0023,P0058,9,high,1.82,"('fractions',)","('fractions', 'integer_arithmetic')",0.5357142857142857,0.5,91.58,0.541,1,[]
+S0023,P0146,9,elementary,2.81,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.24500000000000002,0.0,97.66,0.714,1,[]
+S0023,P0495,9,high,1.93,"('fractions',)","('fractions', 'integer_arithmetic')",0.6666666666666666,0.6666666666666666,77.08,0.382,0,"['integer_arithmetic', 'fractions']"
+S0023,P0114,9,elementary,3.79,"('geometry_volume', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.8523809523809524,1.0,121.95,0.666,0,"['algebraic_simplification', 'polynomials']"
+S0023,P0485,9,elementary,2.13,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.5373737373737374,0.6666666666666666,92.4,0.771,0,"['algebraic_simplification', 'integer_arithmetic', 'linear_equations']"
+S0023,P0459,9,elementary,2.69,"('fractions', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.41666666666666663,0.5,103.46,0.474,1,[]
+S0023,P0386,9,elementary,2.89,"('data_interpretation', 'percentages')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.4045584045584046,0.16666666666666666,80.32,0.51,0,"['data_interpretation', 'decimals']"
+S0023,P0198,9,high,1.72,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.5,0.5,74.15,0.72,0,['geometry_area']
+S0023,P0127,9,high,2.9,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.4666666666666666,0.5,108.84,0.55,0,"['algebraic_simplification', 'polynomials']"
+S0023,P0375,9,elementary,2.46,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3955519480519481,0.34285714285714286,103.68,0.481,0,"['algebraic_simplification', 'decimals', 'ratios_proportions']"
+S0023,P0482,9,elementary,2.63,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.34901960784313724,0.25,113.42,0.547,1,[]
+S0023,P0152,9,high,2.53,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5526251526251525,1.0,98.77,0.721,1,[]
+S0023,P0368,9,middle,1.78,"('fractions',)","('fractions', 'integer_arithmetic')",0.48684210526315785,0.5,71.7,0.557,0,"['integer_arithmetic', 'fractions']"
+S0023,P0270,9,middle,3.66,"('polynomials', 'probability_basics')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'probability_basics', 'ratios_proportions')",0.47916666666666663,0.6666666666666666,113.93,0.658,0,"['algebraic_simplification', 'polynomials']"
+S0023,P0338,9,middle,1.99,"('algebraic_simplification', 'exponents')","('algebraic_simplification', 'exponents', 'integer_arithmetic')",0.30026455026455023,0.2361111111111111,110.87,0.596,0,"['algebraic_simplification', 'exponents']"
+S0023,P0443,9,elementary,1.92,"('integer_arithmetic', 'linear_equations')","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.3363636363636364,0.40454545454545454,102.88,0.614,1,[]
+S0023,P0082,9,middle,2.56,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.28937747035573125,0.25,91.59,0.452,0,"['algebraic_simplification', 'polynomials', 'exponents']"
+S0023,P0022,9,elementary,1.47,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.3958333333333333,0.3333333333333333,70.56,0.564,1,[]
+S0023,P0010,9,high,1.72,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.47019607843137257,0.5,84.01,0.814,1,[]
+S0023,P0186,9,middle,2.44,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5205128205128206,0.6,93.75,0.564,0,['geometry_area']
+S0023,P0468,9,middle,1.19,"('integer_arithmetic',)","('integer_arithmetic',)",0.4444444444444444,0.4444444444444444,81.27,0.729,1,[]
+S0023,P0115,9,high,3.12,"('linear_equations', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.319047619047619,0.41666666666666663,117.1,0.463,0,"['algebraic_simplification', 'polynomials', 'exponents']"
+S0023,P0161,9,middle,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.4955031256301673,0.6666666666666666,93.75,0.692,0,"['decimals', 'probability_basics', 'ratios_proportions']"
+S0024,P0346,10,high,3.35,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",-1.0,-1.0,106.0,0.273,0,"['algebraic_simplification', 'polynomials', 'decimals']"
+S0024,P0299,10,middle,2.1,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,72.91,0.552,0,['decimals']
+S0024,P0390,10,middle,2.33,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,94.42,0.395,0,['decimals']
+S0024,P0288,10,elementary,2.65,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,116.05,0.288,1,[]
+S0024,P0136,10,elementary,0.98,"('integer_arithmetic',)","('integer_arithmetic',)",0.25,0.25,99.52,0.166,1,[]
+S0024,P0029,10,elementary,3.16,"('data_interpretation', 'integer_arithmetic')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.43,0.4,108.4,0.298,1,[]
+S0024,P0145,10,elementary,1.74,"('fractions',)","('fractions', 'integer_arithmetic')",0.45,0.4,82.56,0.458,1,[]
+S0024,P0311,10,middle,1.63,"('decimals',)","('decimals', 'integer_arithmetic')",0.4857142857142857,0.4,92.02,0.199,0,"['decimals', 'integer_arithmetic']"
+S0024,P0473,10,middle,1.95,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.25,-1.0,112.83,0.405,0,"['algebraic_simplification', 'linear_equations']"
+S0024,P0467,10,middle,1.46,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.2222222222222222,0.0,90.47,0.242,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0024,P0485,10,elementary,2.13,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.13333333333333333,0.0,105.3,0.252,0,"['algebraic_simplification', 'linear_equations']"
+S0024,P0104,10,high,1.51,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.18181818181818182,0.0,78.85,0.348,1,[]
+S0024,P0286,10,middle,1.56,"('integer_arithmetic',)","('integer_arithmetic',)",0.4166666666666667,0.4166666666666667,79.94,0.253,0,['integer_arithmetic']
+S0024,P0455,10,middle,1.68,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.19487179487179487,0.0,74.02,0.429,0,"['algebraic_simplification', 'linear_equations']"
+S0024,P0190,10,elementary,2.93,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5180952380952382,1.0,100.41,0.469,1,[]
+S0024,P0470,10,middle,3.11,"('decimals', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.16587301587301587,0.42857142857142855,82.94,0.219,0,"['algebraic_simplification', 'linear_equations']"
+S0024,P0177,10,middle,3.02,"('data_interpretation', 'fractions')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6369047619047619,0.7857142857142857,110.0,0.591,1,[]
+S0024,P0344,10,high,1.09,"('fractions',)","('fractions', 'integer_arithmetic')",0.5183823529411764,0.625,84.54,0.445,1,[]
+S0024,P0238,10,middle,1.89,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.19576719576719573,0.0,76.7,0.484,0,"['algebraic_simplification', 'linear_equations']"
+S0024,P0000,10,elementary,1.57,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5438596491228069,-1.0,53.95,0.301,0,['geometry_area']
+S0024,P0109,10,middle,2.38,"('decimals', 'exponents')","('decimals', 'exponents', 'integer_arithmetic')",0.2814814814814815,0.2222222222222222,73.41,0.367,1,[]
+S0024,P0337,10,high,3.05,"('geometry_area', 'percentages')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5166666666666666,0.5,116.18,0.462,0,['decimals']
+S0024,P0274,10,middle,3.23,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6181818181818182,1.0,115.63,0.379,1,[]
+S0024,P0370,10,middle,1.47,"('decimals',)","('decimals', 'integer_arithmetic')",0.46739130434782605,0.5,80.5,0.505,1,[]
+S0024,P0381,10,middle,2.82,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6615028490028491,1.0,106.88,0.513,1,[]
+S0024,P0233,10,high,3.11,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.15638888888888888,0.0,123.85,0.374,0,"['algebraic_simplification', 'linear_equations', 'polynomials']"
+S0024,P0063,10,elementary,1.2,"('fractions',)","('fractions', 'integer_arithmetic')",0.5384615384615385,0.6153846153846154,93.88,0.507,1,[]
+S0024,P0243,10,elementary,1.65,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.2962962962962963,0.1111111111111111,96.15,0.222,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0024,P0052,10,middle,2.68,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6271428571428572,0.8571428571428571,95.09,0.522,1,[]
+S0024,P0261,10,middle,1.54,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.20818965517241378,0.0,96.24,0.284,0,"['algebraic_simplification', 'polynomials']"
+S0025,P0366,7,high,2.24,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",-1.0,-1.0,96.45,0.433,0,"['percentages', 'ratios_proportions']"
+S0025,P0031,7,elementary,2.74,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,79.97,0.557,0,"['ratios_proportions', 'probability_basics']"
+S0025,P0271,7,elementary,1.56,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,0.0,85.87,0.508,0,['fractions']
+S0025,P0323,7,elementary,0.89,"('integer_arithmetic',)","('integer_arithmetic',)",0.0,0.0,92.41,0.8,0,['integer_arithmetic']
+S0025,P0309,7,high,2.88,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,91.9,0.618,0,"['percentages', 'ratios_proportions', 'data_interpretation']"
+S0025,P0123,7,middle,2.05,"('decimals', 'geometry_area')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic')",0.0,0.0,108.22,0.671,0,['geometry_area']
+S0025,P0411,7,high,2.0,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,-1.0,81.13,0.557,1,[]
+S0025,P0367,7,elementary,1.46,"('fractions',)","('fractions', 'integer_arithmetic')",0.07142857142857142,0.0,74.1,0.531,0,"['fractions', 'integer_arithmetic']"
+S0025,P0491,7,middle,3.78,"('data_interpretation', 'geometry_volume')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.017857142857142856,0.0,128.56,0.535,0,['percentages']
+S0025,P0315,7,elementary,2.97,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.018518518518518517,0.0,109.23,0.643,0,"['percentages', 'ratios_proportions', 'data_interpretation']"
+S0025,P0077,7,high,2.29,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.03333333333333333,0.0,122.18,0.643,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0025,P0075,7,middle,1.76,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.030303030303030304,0.0,86.19,0.919,0,['geometry_area']
+S0025,P0059,7,high,1.63,"('geometry_area', 'integer_arithmetic')","('fractions', 'geometry_area', 'integer_arithmetic')",0.027777777777777776,0.041666666666666664,110.44,0.54,0,"['geometry_area', 'fractions']"
+S0025,P0084,7,elementary,1.91,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.019230769230769232,0.0,115.15,0.624,0,"['ratios_proportions', 'fractions']"
+S0025,P0367,7,elementary,1.46,"('fractions',)","('fractions', 'integer_arithmetic')",0.03571428571428571,0.0,76.8,0.729,0,"['fractions', 'integer_arithmetic']"
+S0025,P0079,7,high,1.51,"('fractions',)","('fractions', 'integer_arithmetic')",0.03333333333333333,0.0,81.65,0.636,0,['fractions']
+S0025,P0373,7,elementary,2.15,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.015625,0.0,104.06,0.65,0,"['ratios_proportions', 'fractions', 'decimals']"
+S0025,P0171,7,high,3.58,"('data_interpretation', 'probability_basics')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'probability_basics', 'ratios_proportions')",0.008403361344537815,0.0,148.53,0.618,0,"['percentages', 'ratios_proportions', 'probability_basics']"
+S0025,P0257,7,high,1.54,"('fractions',)","('fractions', 'integer_arithmetic')",0.027777777777777776,0.0,78.1,0.494,0,"['fractions', 'integer_arithmetic']"
+S0025,P0278,7,high,2.44,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.3508771929824561,0.0,94.54,0.399,0,"['linear_equations', 'algebraic_simplification', 'decimals']"
+S0025,P0220,7,middle,1.29,"('integer_arithmetic',)","('integer_arithmetic',)",0.05,0.05,99.44,0.617,0,['integer_arithmetic']
+S0025,P0045,7,middle,1.09,"('integer_arithmetic',)","('integer_arithmetic',)",0.047619047619047616,0.047619047619047616,80.64,0.296,0,['integer_arithmetic']
+S0025,P0490,7,middle,2.04,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.011363636363636364,0.0,95.82,0.679,1,[]
+S0025,P0072,7,high,1.47,"('decimals',)","('decimals', 'integer_arithmetic')",0.043478260869565216,0.0,77.51,0.812,1,[]
+S0025,P0053,7,elementary,3.02,"('data_interpretation', 'geometry_area')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0625901875901876,0.08333333333333333,122.59,0.731,0,"['percentages', 'ratios_proportions']"
+S0025,P0326,7,high,3.56,"('geometry_area', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.16309774436090224,0.14285714285714285,132.93,0.652,0,"['quadratic_equations', 'polynomials']"
+S0025,P0220,7,middle,1.29,"('integer_arithmetic',)","('integer_arithmetic',)",0.11538461538461539,0.11538461538461539,72.04,0.296,0,['integer_arithmetic']
+S0025,P0491,7,middle,3.78,"('data_interpretation', 'geometry_volume')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.10868055555555556,0.25,150.23,0.702,0,"['percentages', 'ratios_proportions']"
+S0025,P0380,7,middle,2.21,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.04633699633699634,0.0,109.29,0.755,0,"['percentages', 'ratios_proportions', 'fractions']"
+S0025,P0336,7,elementary,1.76,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.08667131080924184,0.1111111111111111,92.27,0.469,0,"['geometry_area', 'fractions', 'integer_arithmetic']"
+S0026,P0233,7,high,3.11,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",-1.0,-1.0,123.25,0.659,0,"['quadratic_equations', 'linear_equations', 'algebraic_simplification']"
+S0026,P0091,7,high,3.36,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,98.08,0.776,0,['probability_basics']
+S0026,P0076,7,elementary,3.41,"('geometry_volume', 'percentages')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,-1.0,102.28,0.777,0,['geometry_volume']
+S0026,P0339,7,middle,2.82,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,133.87,0.721,1,[]
+S0026,P0243,7,elementary,1.65,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.125,0.0,86.45,0.678,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0026,P0332,7,high,2.46,"('algebraic_simplification', 'geometry_volume')","('algebraic_simplification', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.10666666666666666,0.0,103.06,0.751,0,"['geometry_volume', 'geometry_area']"
+S0026,P0154,7,high,1.59,"('fractions',)","('fractions', 'integer_arithmetic')",0.20833333333333331,0.25,80.04,0.785,0,['fractions']
+S0026,P0217,7,high,1.52,"('fractions',)","('fractions', 'integer_arithmetic')",0.17142857142857143,0.2,117.36,0.634,0,['fractions']
+S0026,P0446,7,middle,2.13,"('exponents', 'ratios_proportions')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.19166666666666665,0.16666666666666666,71.58,0.809,0,"['exponents', 'ratios_proportions', 'fractions']"
+S0026,P0476,7,elementary,3.35,"('linear_equations', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.018518518518518517,0.0,124.27,0.747,0,"['quadratic_equations', 'linear_equations', 'algebraic_simplification']"
+S0026,P0284,7,middle,1.09,"('decimals',)","('decimals', 'integer_arithmetic')",0.175,0.25,63.41,0.99,0,['decimals']
+S0026,P0149,7,elementary,1.24,"('integer_arithmetic',)","('integer_arithmetic',)",0.09090909090909091,0.09090909090909091,78.7,0.841,1,[]
+S0026,P0328,7,middle,1.79,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.08333333333333333,0.0,79.89,0.561,1,[]
+S0026,P0087,7,elementary,2.64,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.1647252747252747,0.0,100.68,0.99,1,[]
+S0026,P0105,7,elementary,2.79,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.31726190476190474,0.4,108.0,0.928,0,['ratios_proportions']
+S0026,P0402,7,high,1.94,"('fractions', 'geometry_volume')","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.12222222222222222,0.1111111111111111,84.44,0.751,0,"['geometry_volume', 'geometry_area']"
+S0026,P0293,7,high,1.41,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.13888888888888887,0.0,100.6,0.715,0,"['linear_equations', 'algebraic_simplification']"
+S0026,P0094,7,elementary,2.01,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2635854341736695,0.3333333333333333,96.61,0.804,1,[]
+S0026,P0252,7,middle,2.05,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.1402116402116402,0.0,87.09,0.854,0,"['linear_equations', 'algebraic_simplification', 'integer_arithmetic']"
+S0026,P0038,7,middle,1.4,"('fractions',)","('fractions', 'integer_arithmetic')",0.26794258373205737,0.2727272727272727,82.54,0.874,0,"['fractions', 'integer_arithmetic']"
+S0026,P0398,7,high,1.88,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.125,0.0,98.71,0.518,0,"['linear_equations', 'algebraic_simplification']"
+S0026,P0254,7,high,1.25,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.1746031746031746,0.1111111111111111,71.38,0.683,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0026,P0053,7,elementary,3.02,"('data_interpretation', 'geometry_area')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.2968073593073593,0.0,99.07,0.76,0,"['percentages', 'geometry_area']"
+S0026,P0415,7,high,2.39,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2891234671125975,0.375,101.08,0.93,0,['ratios_proportions']
+S0026,P0242,7,high,3.0,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.10452380952380953,0.0,98.45,0.78,0,"['linear_equations', 'geometry_area']"
+S0026,P0109,7,middle,2.38,"('decimals', 'exponents')","('decimals', 'exponents', 'integer_arithmetic')",0.16666666666666666,0.15,103.29,0.945,1,[]
+S0026,P0253,7,middle,2.16,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.1076923076923077,0.0,98.73,0.591,0,"['geometry_volume', 'geometry_area', 'fractions']"
+S0026,P0111,7,elementary,2.95,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.1844486531986532,0.16666666666666666,117.66,0.888,0,['geometry_volume']
+S0026,P0173,7,high,2.4,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2560224089635854,0.3,102.51,0.718,0,['ratios_proportions']
+S0026,P0188,7,high,2.41,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.1369514106583072,0.0,122.68,0.804,1,[]
+S0027,P0104,11,high,1.51,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",-1.0,-1.0,65.31,0.664,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0027,P0419,11,middle,2.61,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,76.87,0.767,1,[]
+S0027,P0071,11,elementary,1.49,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.25,0.0,87.58,0.737,1,[]
+S0027,P0073,11,high,3.44,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.8333333333333333,0.5,74.52,0.515,0,['ratios_proportions']
+S0027,P0142,11,middle,3.47,"('percentages', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'probability_basics', 'ratios_proportions')",0.5,0.5,116.06,0.674,1,[]
+S0027,P0061,11,middle,2.76,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.72,1.0,88.1,0.566,0,"['ratios_proportions', 'probability_basics', 'decimals']"
+S0027,P0145,11,elementary,1.74,"('fractions',)","('fractions', 'integer_arithmetic')",0.5,0.5,86.49,0.572,1,[]
+S0027,P0045,11,middle,1.09,"('integer_arithmetic',)","('integer_arithmetic',)",0.5714285714285714,0.5714285714285714,63.33,0.659,1,[]
+S0027,P0228,11,middle,1.98,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.6125,-1.0,98.92,0.641,1,[]
+S0027,P0104,11,high,1.51,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.5,0.3333333333333333,86.6,0.609,0,['algebraic_simplification']
+S0027,P0108,11,middle,1.7,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.7555555555555555,1.0,64.51,0.782,1,[]
+S0027,P0316,11,high,2.03,"('decimals', 'fractions')","('decimals', 'fractions', 'integer_arithmetic')",0.6168831168831169,0.6071428571428572,101.79,0.659,0,['decimals']
+S0027,P0120,11,high,1.37,"('fractions',)","('fractions', 'integer_arithmetic')",0.6041666666666667,0.625,102.65,0.669,0,['fractions']
+S0027,P0498,11,high,3.23,"('algebraic_simplification', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.3942307692307692,0.25,125.01,0.881,1,[]
+S0027,P0042,11,elementary,2.63,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.8285714285714286,1.0,104.74,0.668,0,"['polynomials', 'linear_equations', 'exponents']"
+S0027,P0427,11,high,2.51,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.44166666666666665,0.45,119.45,0.519,0,['decimals']
+S0027,P0098,11,elementary,1.52,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.373015873015873,0.3333333333333333,87.86,0.626,0,"['linear_equations', 'algebraic_simplification']"
+S0027,P0193,11,high,2.74,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.411764705882353,0.5,115.81,0.647,0,"['polynomials', 'linear_equations', 'exponents']"
+S0027,P0310,11,elementary,1.85,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.3333333333333333,0.3333333333333333,78.43,0.639,0,"['polynomials', 'exponents']"
+S0027,P0213,11,middle,3.09,"('polynomials', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.27573099415204677,0.29166666666666663,116.99,0.589,1,[]
+S0027,P0462,11,middle,1.84,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.6685185185185185,1.0,77.63,0.538,1,[]
+S0027,P0228,11,middle,1.98,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.6920634920634922,1.0,79.8,0.811,0,['geometry_area']
+S0027,P0422,11,elementary,1.81,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.4583333333333333,0.41666666666666663,71.73,0.538,0,"['ratios_proportions', 'decimals']"
+S0027,P0483,11,middle,1.15,"('integer_arithmetic',)","('integer_arithmetic',)",0.43478260869565216,0.43478260869565216,65.99,0.644,0,['integer_arithmetic']
+S0027,P0388,11,high,1.75,"('integer_arithmetic',)","('integer_arithmetic',)",0.4166666666666667,0.4166666666666667,75.78,0.819,1,[]
+S0027,P0184,11,high,1.71,"('decimals',)","('decimals', 'integer_arithmetic')",0.3628571428571429,0.2857142857142857,80.32,0.581,0,"['decimals', 'integer_arithmetic']"
+S0027,P0111,11,elementary,2.95,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.46461538461538465,0.4,110.56,0.731,1,[]
+S0027,P0398,11,high,1.88,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.35016835016835013,0.3333333333333333,97.06,0.559,1,[]
+S0027,P0346,11,high,3.35,"('polynomials', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'ratios_proportions')",0.4242019884877028,0.45,98.65,0.769,1,[]
+S0027,P0271,11,elementary,1.56,"('fractions',)","('fractions', 'integer_arithmetic')",0.5270935960591133,0.5714285714285714,78.75,0.455,1,[]
+S0028,P0228,11,middle,1.98,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",-1.0,-1.0,97.47,0.254,1,[]
+S0028,P0438,11,middle,2.19,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",1.0,-1.0,93.64,0.433,1,[]
+S0028,P0300,11,elementary,2.11,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",1.0,-1.0,94.25,0.42,1,[]
+S0028,P0443,11,elementary,1.92,"('integer_arithmetic', 'linear_equations')","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",1.0,1.0,88.92,0.385,0,"['linear_equations', 'algebraic_simplification', 'integer_arithmetic']"
+S0028,P0233,11,high,3.11,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.25,-1.0,127.62,0.166,0,"['polynomials', 'quadratic_equations']"
+S0028,P0198,11,high,1.72,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.8666666666666667,-1.0,95.45,0.42,0,"['geometry_area', 'geometry_volume', 'integer_arithmetic']"
+S0028,P0496,11,middle,1.6,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5833333333333334,0.5,81.12,0.325,1,[]
+S0028,P0335,11,middle,1.32,"('decimals',)","('decimals', 'integer_arithmetic')",0.7857142857142857,1.0,64.4,0.445,1,[]
+S0028,P0031,11,elementary,2.74,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.85625,-1.0,98.11,0.282,0,['probability_basics']
+S0028,P0263,11,middle,1.44,"('decimals',)","('decimals', 'integer_arithmetic')",0.6527777777777778,0.75,87.61,0.37,0,"['decimals', 'integer_arithmetic']"
+S0028,P0112,11,middle,3.79,"('data_interpretation', 'polynomials')","('algebraic_simplification', 'data_interpretation', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'polynomials', 'ratios_proportions')",0.42916666666666664,0.0,139.81,0.278,1,[]
+S0028,P0460,11,high,2.49,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.7352813852813853,1.0,86.67,0.59,0,['percentages']
+S0028,P0317,11,middle,3.26,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.35119047619047616,0.3125,132.63,0.481,1,[]
+S0028,P0458,11,high,3.07,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6738705738705738,1.0,106.13,0.269,0,['data_interpretation']
+S0028,P0275,11,middle,0.71,"('integer_arithmetic',)","('integer_arithmetic',)",0.5,0.5,73.0,0.582,1,[]
+S0028,P0145,11,elementary,1.74,"('fractions',)","('fractions', 'integer_arithmetic')",0.5666666666666667,0.6,99.32,0.606,1,[]
+S0028,P0356,11,middle,4.43,"('probability_basics', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'probability_basics', 'quadratic_equations', 'ratios_proportions')",0.48655303030303027,0.25,106.18,0.404,0,['polynomials']
+S0028,P0005,11,middle,1.82,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.49644024276377213,0.42857142857142855,96.37,0.148,1,[]
+S0028,P0339,11,middle,2.82,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.43418803418803426,0.0,120.64,0.245,1,[]
+S0028,P0479,11,elementary,1.67,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.40964912280701754,0.25,84.72,0.34,0,['linear_equations']
+S0028,P0493,11,middle,2.24,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5254401154401155,0.4444444444444444,85.71,0.27,0,"['ratios_proportions', 'decimals']"
+S0028,P0107,11,middle,2.22,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",0.3773809523809524,0.35,102.31,0.288,0,"['linear_equations', 'exponents']"
+S0028,P0412,11,middle,2.14,"('integer_arithmetic', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.4866666666666667,0.41666666666666663,63.59,0.076,1,[]
+S0028,P0259,11,middle,2.24,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5576638035877166,0.5454545454545454,88.07,0.261,0,"['ratios_proportions', 'decimals', 'integer_arithmetic']"
+S0028,P0070,11,high,2.55,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5147058823529412,0.5,109.77,0.185,0,"['data_interpretation', 'percentages', 'ratios_proportions']"
+S0028,P0426,11,middle,2.76,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.49275213675213675,0.5,94.14,0.488,1,[]
+S0028,P0339,11,middle,2.82,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5357894736842106,0.6,129.97,0.311,1,[]
+S0028,P0161,11,middle,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5695860566448802,0.6666666666666666,84.0,0.202,1,[]
+S0028,P0099,11,high,3.01,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5345634920634921,0.4,123.55,0.554,0,"['percentages', 'ratios_proportions', 'decimals']"
+S0028,P0326,11,high,3.56,"('geometry_area', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.4281021421107628,0.5,121.97,0.38,0,['polynomials']
+S0029,P0239,8,high,2.41,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",-1.0,-1.0,94.71,0.622,0,"['ratios_proportions', 'fractions', 'decimals']"
+S0029,P0487,8,high,2.69,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,-1.0,124.79,0.577,0,"['probability_basics', 'ratios_proportions', 'fractions']"
+S0029,P0208,8,elementary,2.27,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,109.96,0.531,0,['ratios_proportions']
+S0029,P0121,8,elementary,2.79,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,113.92,0.617,0,['probability_basics']
+S0029,P0252,8,middle,2.05,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.0,-1.0,98.98,0.465,0,"['linear_equations', 'integer_arithmetic', 'algebraic_simplification']"
+S0029,P0140,8,high,2.22,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.0,-1.0,104.58,0.519,0,"['exponents', 'polynomials']"
+S0029,P0451,8,middle,1.79,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.0,0.0,91.64,0.705,0,"['ratios_proportions', 'fractions']"
+S0029,P0339,8,middle,2.82,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0,0.0,138.14,0.31,1,[]
+S0029,P0361,8,high,3.14,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.15625,-1.0,125.85,0.521,0,"['percentages', 'ratios_proportions']"
+S0029,P0319,8,high,1.58,"('fractions', 'linear_equations')","('algebraic_simplification', 'fractions', 'integer_arithmetic', 'linear_equations')",0.06349206349206349,0.07142857142857142,73.29,0.568,0,['linear_equations']
+S0029,P0152,8,high,2.53,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.1688095238095238,0.3333333333333333,115.13,0.622,0,['probability_basics']
+S0029,P0380,8,middle,2.21,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0904040404040404,0.0,78.88,0.565,0,"['percentages', 'ratios_proportions']"
+S0029,P0213,8,middle,3.09,"('polynomials', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.016666666666666666,0.0,110.07,0.447,0,"['quadratic_equations', 'linear_equations', 'exponents']"
+S0029,P0307,8,middle,2.93,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.012820512820512822,0.0,97.05,0.41,0,"['quadratic_equations', 'linear_equations']"
+S0029,P0047,8,high,1.91,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.017857142857142856,0.0,106.07,0.569,1,[]
+S0029,P0316,8,high,2.03,"('decimals', 'fractions')","('decimals', 'fractions', 'integer_arithmetic')",0.11481481481481481,0.10555555555555556,98.19,0.382,0,"['fractions', 'decimals']"
+S0029,P0016,8,middle,1.25,"('fractions',)","('fractions', 'integer_arithmetic')",0.10795454545454546,0.09090909090909091,82.6,0.469,0,['fractions']
+S0029,P0295,8,middle,2.17,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.13241830065359478,0.25,116.51,0.478,0,"['probability_basics', 'ratios_proportions']"
+S0029,P0330,8,middle,2.34,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.09473581973581974,0.1,96.34,0.517,0,"['ratios_proportions', 'fractions']"
+S0029,P0344,8,high,1.09,"('fractions',)","('fractions', 'integer_arithmetic')",0.08834586466165413,0.07142857142857142,73.34,0.393,0,"['fractions', 'integer_arithmetic']"
+S0029,P0068,8,middle,3.47,"('linear_equations', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.07251082251082251,0.0,122.42,0.406,0,['percentages']
+S0029,P0084,8,elementary,1.91,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.07949862637362637,0.08012820512820512,87.24,0.639,1,[]
+S0029,P0281,8,high,2.37,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.1376784979726156,0.15384615384615385,91.02,0.379,0,"['ratios_proportions', 'fractions', 'decimals']"
+S0029,P0207,8,elementary,2.25,"('exponents', 'fractions')","('exponents', 'fractions', 'integer_arithmetic')",0.16384863123993557,0.18055555555555555,100.92,0.695,0,"['fractions', 'exponents', 'integer_arithmetic']"
+S0029,P0439,8,middle,3.05,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.10129072681704261,0.06666666666666667,117.46,0.786,0,"['percentages', 'ratios_proportions', 'fractions']"
+S0029,P0039,8,middle,2.13,"('fractions', 'linear_equations')","('algebraic_simplification', 'fractions', 'integer_arithmetic', 'linear_equations')",0.09071428571428572,0.05,101.19,0.618,0,"['linear_equations', 'fractions']"
+S0029,P0468,8,middle,1.19,"('integer_arithmetic',)","('integer_arithmetic',)",0.11538461538461539,0.11538461538461539,82.89,0.672,0,['integer_arithmetic']
+S0029,P0495,8,high,1.93,"('fractions',)","('fractions', 'integer_arithmetic')",0.10317460317460317,0.09523809523809523,102.48,0.723,1,[]
+S0029,P0095,8,middle,3.32,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0895923520923521,0.0,117.61,0.608,1,[]
+S0029,P0451,8,middle,1.79,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.17757435620425083,0.1875,94.81,0.539,0,['ratios_proportions']
+S0030,P0128,10,elementary,1.65,"('fractions',)","('fractions', 'integer_arithmetic')",-1.0,-1.0,101.22,0.258,1,[]
+S0030,P0229,10,high,2.86,"('exponents', 'ratios_proportions')","('decimals', 'exponents', 'fractions', 'integer_arithmetic', 'ratios_proportions')",1.0,-1.0,94.84,0.553,1,[]
+S0030,P0084,10,elementary,1.91,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",1.0,1.0,77.23,0.485,0,['fractions']
+S0030,P0161,10,middle,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5833333333333333,-1.0,92.65,0.491,1,[]
+S0030,P0396,10,high,2.65,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.875,-1.0,113.23,0.533,0,['polynomials']
+S0030,P0364,10,middle,1.68,"('fractions',)","('fractions', 'integer_arithmetic')",0.675,0.75,102.86,0.316,0,"['fractions', 'integer_arithmetic']"
+S0030,P0370,10,middle,1.47,"('decimals',)","('decimals', 'integer_arithmetic')",0.5833333333333333,0.6666666666666666,78.15,0.233,1,[]
+S0030,P0488,10,middle,1.92,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.26785714285714285,0.0,87.34,0.384,1,[]
+S0030,P0050,10,elementary,1.93,"('fractions',)","('fractions', 'integer_arithmetic')",0.6125,0.6,74.19,0.387,0,['fractions']
+S0030,P0214,10,high,1.76,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.6180555555555556,0.6666666666666666,88.43,0.293,1,[]
+S0030,P0000,10,elementary,1.57,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.5857142857142856,-1.0,80.55,0.416,0,"['fractions', 'geometry_area', 'integer_arithmetic']"
+S0030,P0470,10,middle,3.11,"('decimals', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.6024242424242424,0.8,132.52,0.357,1,[]
+S0030,P0376,10,high,3.43,"('data_interpretation', 'geometry_area')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5333333333333334,0.0,116.09,0.892,0,['percentages']
+S0030,P0411,10,high,2.0,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.6025641025641025,0.6666666666666666,111.6,0.569,0,['algebraic_simplification']
+S0030,P0122,10,high,1.43,"('fractions', 'integer_arithmetic')","('fractions', 'integer_arithmetic')",0.4722222222222222,0.4722222222222222,68.73,0.49,0,['fractions']
+S0030,P0287,10,high,2.24,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.6555555555555556,1.0,105.48,0.628,0,"['linear_equations', 'algebraic_simplification', 'integer_arithmetic']"
+S0030,P0199,10,elementary,2.44,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.2791666666666667,-1.0,101.84,0.535,0,"['fractions', 'geometry_area']"
+S0030,P0182,10,elementary,2.68,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.6179373567608862,1.0,90.04,0.36,0,['fractions']
+S0030,P0409,10,middle,1.72,"('decimals',)","('decimals', 'integer_arithmetic')",0.5069444444444444,0.625,71.87,0.353,0,"['decimals', 'integer_arithmetic']"
+S0030,P0397,10,high,2.29,"('geometry_volume',)","('fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic')",0.17543859649122806,0.0,97.92,0.177,0,"['fractions', 'geometry_area', 'geometry_volume']"
+S0030,P0215,10,high,3.69,"('quadratic_equations', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations', 'ratios_proportions')",0.5588793922127255,0.75,123.27,0.471,0,"['quadratic_equations', 'polynomials', 'fractions']"
+S0030,P0239,10,high,2.41,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.3869047619047619,0.42857142857142855,101.64,0.662,0,"['fractions', 'ratios_proportions', 'decimals']"
+S0030,P0348,10,high,1.34,"('decimals',)","('decimals', 'integer_arithmetic')",0.38636363636363635,0.45454545454545453,94.4,0.678,0,"['decimals', 'integer_arithmetic']"
+S0030,P0067,10,elementary,1.54,"('fractions',)","('fractions', 'integer_arithmetic')",0.2855072463768116,0.26666666666666666,92.7,0.28,0,['fractions']
+S0030,P0318,10,middle,2.42,"('geometry_area', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'ratios_proportions')",0.2666666666666667,0.1875,85.43,0.349,1,[]
+S0030,P0081,10,high,2.05,"('decimals', 'geometry_area')","('decimals', 'fractions', 'geometry_area', 'integer_arithmetic')",0.31891402714932127,0.3307692307692308,95.66,0.738,0,"['fractions', 'geometry_area', 'decimals']"
+S0030,P0141,10,middle,2.8,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.3916971916971917,0.5,116.31,0.51,1,[]
+S0030,P0410,10,high,2.16,"('integer_arithmetic', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.3231578947368421,0.16666666666666666,87.43,0.362,0,"['percentages', 'fractions']"
+S0030,P0040,10,high,1.26,"('fractions',)","('fractions', 'integer_arithmetic')",0.3107142857142857,0.3,97.01,0.489,0,['fractions']
+S0030,P0238,10,middle,1.89,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.3256704980842912,0.3333333333333333,73.41,0.46,0,"['linear_equations', 'algebraic_simplification']"
+S0031,P0358,9,elementary,2.24,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",-1.0,-1.0,70.98,0.854,0,['polynomials']
+S0031,P0067,9,elementary,1.54,"('fractions',)","('fractions', 'integer_arithmetic')",0.0,-1.0,59.78,0.664,0,"['fractions', 'integer_arithmetic']"
+S0031,P0029,9,elementary,3.16,"('data_interpretation', 'integer_arithmetic')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,100.34,0.865,0,"['percentages', 'ratios_proportions']"
+S0031,P0315,9,elementary,2.97,"('data_interpretation',)","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.0,0.0,135.72,0.824,0,['percentages']
+S0031,P0308,9,high,2.48,"('exponents', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.0,0.0,105.88,0.79,1,[]
+S0031,P0224,9,high,2.85,"('algebraic_simplification', 'data_interpretation')","('algebraic_simplification', 'data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.09999999999999999,0.25,104.83,0.779,0,"['percentages', 'ratios_proportions']"
+S0031,P0163,9,high,2.71,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.375,0.5,115.45,0.733,0,['polynomials']
+S0031,P0413,9,elementary,2.41,"('algebraic_simplification', 'ratios_proportions')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.07857142857142857,0.125,108.51,0.657,0,['ratios_proportions']
+S0031,P0319,9,high,1.58,"('fractions', 'linear_equations')","('algebraic_simplification', 'fractions', 'integer_arithmetic', 'linear_equations')",0.10833333333333334,0.0,86.73,0.788,1,[]
+S0031,P0013,9,high,3.55,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.39814814814814814,0.16666666666666666,123.96,0.834,0,"['fractions', 'quadratic_equations']"
+S0031,P0278,9,high,2.44,"('decimals', 'linear_equations')","('algebraic_simplification', 'decimals', 'integer_arithmetic', 'linear_equations')",0.24642857142857144,0.25,99.86,0.626,0,['decimals']
+S0031,P0431,9,middle,1.24,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.2159090909090909,0.25,80.65,0.871,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0031,P0155,9,middle,3.23,"('data_interpretation', 'geometry_area')","('data_interpretation', 'decimals', 'fractions', 'geometry_area', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.05158730158730159,0.0,112.13,0.819,0,"['percentages', 'ratios_proportions']"
+S0031,P0121,9,elementary,2.79,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.06971153846153846,-1.0,108.41,0.66,1,[]
+S0031,P0262,9,high,1.57,"('exponents',)","('exponents', 'integer_arithmetic')",0.23214285714285715,0.25,82.44,0.581,1,[]
+S0031,P0169,9,middle,1.86,"('fractions', 'integer_arithmetic')","('fractions', 'integer_arithmetic')",0.24444444444444444,0.24444444444444444,95.12,0.679,0,['fractions']
+S0031,P0009,9,middle,1.74,"('fractions',)","('fractions', 'integer_arithmetic')",0.225,0.2,62.5,0.892,0,"['fractions', 'integer_arithmetic']"
+S0031,P0451,9,middle,1.79,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.18165902724726254,0.16666666666666666,63.39,0.688,1,[]
+S0031,P0171,9,high,3.58,"('data_interpretation', 'probability_basics')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'probability_basics', 'ratios_proportions')",0.2947845804988662,0.5,125.38,0.551,0,"['percentages', 'ratios_proportions', 'data_interpretation']"
+S0031,P0357,9,high,1.86,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.16464237516869096,0.0,88.11,0.587,0,['geometry_area']
+S0031,P0012,9,elementary,2.89,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.28055555555555556,0.25,97.3,0.99,1,[]
+S0031,P0212,9,middle,1.0,"('integer_arithmetic',)","('integer_arithmetic',)",0.2857142857142857,0.2857142857142857,68.83,0.874,1,[]
+S0031,P0160,9,middle,1.16,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.3090909090909091,0.3,67.76,0.827,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0031,P0231,9,middle,1.3,"('decimals',)","('decimals', 'integer_arithmetic')",0.2632850241545894,0.2222222222222222,98.12,0.843,0,"['decimals', 'integer_arithmetic']"
+S0031,P0475,9,middle,3.09,"('algebraic_simplification', 'probability_basics')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.2881132756132756,0.38636363636363635,125.75,0.873,1,[]
+S0031,P0470,9,middle,3.11,"('decimals', 'quadratic_equations')","('algebraic_simplification', 'decimals', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.3084848484848485,0.13636363636363635,115.34,0.705,0,['decimals']
+S0031,P0159,9,elementary,2.28,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2894230769230769,0.29166666666666663,92.74,0.906,0,['ratios_proportions']
+S0031,P0126,9,middle,2.38,"('geometry_area', 'linear_equations')","('algebraic_simplification', 'fractions', 'geometry_area', 'integer_arithmetic', 'linear_equations')",0.2207977207977208,0.125,101.03,0.772,0,"['geometry_area', 'fractions']"
+S0031,P0047,9,high,1.91,"('polynomials',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'polynomials')",0.3333333333333333,0.3333333333333333,74.51,0.674,0,['polynomials']
+S0031,P0260,9,middle,2.55,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.2604813543454517,0.3,87.26,0.692,0,['ratios_proportions']
+S0032,P0366,11,high,2.24,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",-1.0,-1.0,78.78,0.315,1,[]
+S0032,P0176,11,middle,2.62,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",1.0,-1.0,92.32,0.344,1,[]
+S0032,P0362,11,elementary,3.69,"('percentages', 'polynomials')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'percentages', 'polynomials', 'ratios_proportions')",1.0,1.0,102.8,0.367,0,"['exponents', 'polynomials', 'algebraic_simplification']"
+S0032,P0021,11,elementary,3.12,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.5416666666666666,0.5,95.68,0.49,1,[]
+S0032,P0324,11,middle,2.77,"('fractions', 'quadratic_equations')","('algebraic_simplification', 'exponents', 'fractions', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.7023809523809523,0.8333333333333333,93.81,0.359,0,"['quadratic_equations', 'exponents', 'polynomials']"
+S0032,P0447,11,high,2.67,"('algebraic_simplification', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.5444444444444444,0.41666666666666663,106.93,0.624,1,[]
+S0032,P0035,11,elementary,2.24,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.6916666666666667,0.75,103.93,0.604,1,[]
+S0032,P0249,11,middle,1.27,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.7936507936507936,1.0,73.65,0.513,0,"['fractions', 'geometry_area']"
+S0032,P0148,11,high,1.02,"('exponents',)","('exponents', 'integer_arithmetic')",0.47916666666666663,0.3333333333333333,61.51,0.473,0,"['exponents', 'integer_arithmetic']"
+S0032,P0439,11,middle,3.05,"('decimals', 'percentages')","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6787301587301589,0.7333333333333334,103.62,0.423,1,[]
+S0032,P0072,11,high,1.47,"('decimals',)","('decimals', 'integer_arithmetic')",0.7166666666666667,0.8333333333333334,89.51,0.453,1,[]
+S0032,P0090,11,middle,2.45,"('geometry_area',)","('fractions', 'geometry_area', 'integer_arithmetic')",0.587121212121212,0.5,97.13,0.405,0,['fractions']
+S0032,P0175,11,elementary,1.84,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.7073412698412699,0.8333333333333334,72.93,0.521,1,[]
+S0032,P0125,11,high,2.44,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.7368818681318682,-1.0,98.3,0.465,1,[]
+S0032,P0203,11,middle,2.02,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.5476190476190476,0.5,76.98,0.432,0,['linear_equations']
+S0032,P0401,11,elementary,1.55,"('fractions',)","('fractions', 'integer_arithmetic')",0.6181818181818182,0.6363636363636364,89.6,0.208,0,['fractions']
+S0032,P0245,11,high,2.67,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",0.3864583333333333,0.29166666666666663,115.0,0.15,0,['exponents']
+S0032,P0098,11,elementary,1.52,"('linear_equations',)","('algebraic_simplification', 'integer_arithmetic', 'linear_equations')",0.3709150326797386,0.25,72.47,0.383,1,[]
+S0032,P0270,11,middle,3.66,"('polynomials', 'probability_basics')","('algebraic_simplification', 'decimals', 'exponents', 'fractions', 'integer_arithmetic', 'polynomials', 'probability_basics', 'ratios_proportions')",0.6080853174603175,0.6666666666666666,114.32,0.453,0,"['exponents', 'polynomials']"
+S0032,P0497,11,middle,1.66,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.4506578947368421,0.375,90.18,0.425,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0032,P0043,11,middle,2.3,"('percentages',)","('decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6732478632478632,0.75,87.94,0.531,1,[]
+S0032,P0221,11,high,2.46,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.6783549783549783,0.8,100.76,0.342,0,['fractions']
+S0032,P0428,11,elementary,1.07,"('integer_arithmetic',)","('integer_arithmetic',)",0.5,0.5,60.03,0.393,0,['integer_arithmetic']
+S0032,P0096,11,middle,1.39,"('integer_arithmetic',)","('integer_arithmetic',)",0.4782608695652174,0.4782608695652174,60.14,0.477,1,[]
+S0032,P0035,11,elementary,2.24,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.6276515151515152,0.7272727272727273,61.59,0.574,0,"['fractions', 'integer_arithmetic']"
+S0032,P0167,11,elementary,1.72,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.4066666666666666,0.3333333333333333,70.79,0.504,0,"['algebraic_simplification', 'integer_arithmetic']"
+S0032,P0434,11,elementary,2.33,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.5641025641025641,0.5,91.99,0.42,1,[]
+S0032,P0029,11,elementary,3.16,"('data_interpretation', 'integer_arithmetic')","('data_interpretation', 'decimals', 'fractions', 'integer_arithmetic', 'percentages', 'ratios_proportions')",0.6434973305561542,0.48148148148148145,109.54,0.106,0,"['data_interpretation', 'fractions', 'percentages']"
+S0032,P0281,11,high,2.37,"('ratios_proportions',)","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5684523809523809,0.6428571428571429,78.91,0.544,1,[]
+S0032,P0084,11,elementary,1.91,"('decimals', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.5908102692075015,0.6770833333333333,68.43,0.424,1,[]
+S0033,P0245,6,high,2.67,"('exponents', 'linear_equations')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations')",-1.0,-1.0,89.69,0.501,0,['exponents']
+S0033,P0057,6,middle,2.85,"('geometry_volume', 'ratios_proportions')","('decimals', 'fractions', 'geometry_area', 'geometry_volume', 'integer_arithmetic', 'ratios_proportions')",0.0,-1.0,105.36,0.474,0,"['ratios_proportions', 'geometry_area']"
+S0033,P0104,6,high,1.51,"('algebraic_simplification',)","('algebraic_simplification', 'integer_arithmetic')",0.0,0.0,99.14,0.668,1,[]
+S0033,P0179,6,middle,1.38,"('exponents',)","('exponents', 'integer_arithmetic')",0.16666666666666666,0.0,108.82,0.39,0,"['exponents', 'integer_arithmetic']"
+S0033,P0459,6,elementary,2.69,"('fractions', 'probability_basics')","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.0625,0.0,107.7,0.542,0,['ratios_proportions']
+S0033,P0068,6,middle,3.47,"('linear_equations', 'percentages')","('algebraic_simplification', 'decimals', 'fractions', 'integer_arithmetic', 'linear_equations', 'percentages', 'ratios_proportions')",0.11666666666666665,0.0,114.08,0.501,0,"['ratios_proportions', 'fractions', 'percentages']"
+S0033,P0480,6,middle,3.21,"('quadratic_equations',)","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials', 'quadratic_equations')",0.125,-1.0,91.67,0.512,0,"['quadratic_equations', 'exponents', 'linear_equations']"
+S0033,P0301,6,elementary,2.49,"('integer_arithmetic', 'ratios_proportions')","('decimals', 'fractions', 'integer_arithmetic', 'ratios_proportions')",0.03571428571428571,0.07142857142857142,101.66,0.59,1,[]
+S0033,P0152,6,high,2.53,"('probability_basics',)","('decimals', 'fractions', 'integer_arithmetic', 'probability_basics', 'ratios_proportions')",0.2,0.0,109.28,0.346,1,[]
+S0033,P0024,6,middle,2.76,"('linear_equations', 'polynomials')","('algebraic_simplification', 'exponents', 'integer_arithmetic', 'linear_equations', 'polynomials')",0.11666666666666665,0.0,93.81,0.381,1,[]
