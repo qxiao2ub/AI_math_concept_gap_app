@@ -5,8 +5,6 @@ This repository is a GitHub-ready Streamlit app converted from the uploaded note
 
 The app demonstrates a prototype pipeline for diagnosing likely missing math concepts after a student answers a problem incorrectly. It uses synthetic data generated from the notebook logic, trains a lightweight `RandomForestClassifier`, and recommends the next concept for review.
 
-> **Prototype note:** this app uses synthetic data only. Do not upload or commit CUI, FOUO, ITAR, EAR, PII, PHI, student records, or other sensitive information.
-
 ## Project credits
 
 - **Author:** Minglang Li
