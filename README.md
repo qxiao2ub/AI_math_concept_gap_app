@@ -7,6 +7,13 @@ The app demonstrates a prototype pipeline for diagnosing likely missing math con
 
 > **Prototype note:** this app uses synthetic data only. Do not upload or commit CUI, FOUO, ITAR, EAR, PII, PHI, student records, or other sensitive information.
 
+## Project credits
+
+- **Author:** Minglang Li
+- **Mentor:** Dr. Qingyang Xiao
+
+The same credits are displayed in the Streamlit app header, left sidebar panel, browser page title, and the **Author & Mentor** tab.
+
 ## What the app does
 
 - Builds a synthetic math problem bank with primary and prerequisite concepts.
@@ -18,11 +25,12 @@ The app demonstrates a prototype pipeline for diagnosing likely missing math con
 ## Repository structure
 
 ```text
-math_concept_gap_streamlit_app/
+Minglang_AI_Math_Concept_Gap_Streamlit_App/
 ├── app.py
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
+├── AUTHORS.md
 ├── .gitignore
 ├── .streamlit/
 │   └── config.toml

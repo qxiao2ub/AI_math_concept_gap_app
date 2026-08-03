@@ -23,6 +23,9 @@ MODEL_PATH = ROOT / "artifacts" / "model_bundle.joblib"
 PROBLEM_BANK_PATH = ROOT / "data" / "synthetic_problem_bank.csv"
 SAMPLE_DATA_PATH = ROOT / "data" / "sample_attempts_preview.csv"
 
+AUTHOR_NAME = "Minglang Li"
+MENTOR_NAME = "Dr. Qingyang Xiao"
+
 
 @st.cache_resource(show_spinner=False)
 def cached_model_bundle() -> dict[str, Any]:
@@ -76,7 +79,12 @@ def concept_count_frame(values: Iterable[Any]) -> pd.DataFrame:
 
 
 def render_sidebar(bundle: dict[str, Any]) -> None:
-    st.sidebar.title("Model status")
+    st.sidebar.title("AI Math Learning Assistant")
+    st.sidebar.markdown("### Project credits")
+    st.sidebar.markdown(f"**Author:** {AUTHOR_NAME}")
+    st.sidebar.markdown(f"**Mentor:** {MENTOR_NAME}")
+    st.sidebar.divider()
+    st.sidebar.markdown("### Model status")
     st.sidebar.metric("Validation top-1 accuracy", f"{bundle.get('accuracy', 0):.1%}")
     st.sidebar.metric("Synthetic training rows", f"{bundle.get('training_rows', 0):,}")
     st.sidebar.metric("Incorrect-answer rate", f"{bundle.get('incorrect_rate', 0):.1%}")
@@ -207,13 +215,35 @@ def render_method_tab(bundle: dict[str, Any]) -> None:
     )
 
 
+def render_credits_tab() -> None:
+    st.subheader("Project credits")
+    left, right = st.columns(2)
+    with left:
+        st.markdown("#### Author")
+        st.info(AUTHOR_NAME)
+    with right:
+        st.markdown("#### Mentor")
+        st.info(MENTOR_NAME)
+
+    st.markdown("### About this app")
+    st.write(
+        "This Streamlit prototype converts the original student notebook into a GitHub-ready web app for "
+        "demonstrating AI-assisted math concept-gap diagnosis and adaptive review recommendations."
+    )
+    st.warning(
+        "Use synthetic or approved non-sensitive data only. Do not upload CUI, FOUO, ITAR, EAR, PII, PHI, "
+        "or identifiable student records."
+    )
+
+
 def main() -> None:
     st.set_page_config(
-        page_title="Math Concept Gap Diagnosis",
+        page_title=f"Math Concept Gap Diagnosis | {AUTHOR_NAME}",
         page_icon="🧠",
         layout="wide",
     )
     st.title("AI-Based Math Concept Gap Diagnosis App")
+    st.markdown(f"**Author:** {AUTHOR_NAME}  \n**Mentor:** {MENTOR_NAME}")
     st.caption("Streamlit prototype converted from the uploaded Colab notebook.")
 
     if not MODEL_PATH.exists():
@@ -223,13 +253,17 @@ def main() -> None:
     bundle = cached_model_bundle()
     render_sidebar(bundle)
 
-    diagnosis_tab, data_tab, method_tab = st.tabs(["Diagnose", "Explore synthetic data", "Methodology"])
+    diagnosis_tab, data_tab, method_tab, credits_tab = st.tabs(
+        ["Diagnose", "Explore synthetic data", "Methodology", "Author & Mentor"]
+    )
     with diagnosis_tab:
         render_diagnosis_tab(bundle)
     with data_tab:
         render_data_tab()
     with method_tab:
         render_method_tab(bundle)
+    with credits_tab:
+        render_credits_tab()
 
 
 if __name__ == "__main__":
