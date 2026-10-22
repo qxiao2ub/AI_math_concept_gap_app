@@ -1,4 +1,6 @@
-"""Small smoke test for the packaged model and inference path."""
+"""Fast smoke test for the deployable model/UI contract."""
+
+from __future__ import annotations
 
 from pathlib import Path
 import sys
@@ -6,32 +8,35 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from src.diagnosis_engine import build_feature_row, load_bundle, predict_ranked_concepts
+from src.streamlit_backend import (  # noqa: E402
+    AUTHOR_NAME,
+    DEFAULT_INPUTS,
+    MENTOR_NAME,
+    concepts_payload,
+    run_diagnosis,
+)
 
 
-def test_prediction_path() -> None:
-    bundle = load_bundle(ROOT / "artifacts" / "model_bundle.joblib")
-    row = build_feature_row(
-        grade_level=8,
-        grade_band="middle",
-        study_hours_per_week=4.5,
-        attendance_rate=0.9,
-        confidence_trait=0.55,
-        carelessness=0.12,
-        difficulty=2.4,
-        primary_concepts=["fractions", "ratios_proportions"],
-        hist_required_acc_mean=0.3,
-        hist_primary_acc_mean=0.35,
-        hist_total_attempts_on_required=5,
-        hist_total_attempts_on_primary=3,
-        answer_time_sec=85,
-        pre_answer_confidence=0.45,
-    )
-    ranked = predict_ranked_concepts(row, bundle, topn=3)
-    assert len(ranked) > 0
-    assert all(isinstance(item[0], str) for item in ranked)
+def main() -> None:
+    result = run_diagnosis(DEFAULT_INPUTS)
+    concepts = concepts_payload()
+
+    assert AUTHOR_NAME == "Minglang Li"
+    assert MENTOR_NAME == "Dr. Qingyang Xiao"
+    assert len(concepts) == 14
+    assert len(result["ranked_concepts"]) == 7
+    assert result["inputs"]["primary_concepts"] == ["percentages"]
+    assert result["recommended_review"]
+    assert result["model_metadata"]["model_type"] == "RandomForestClassifier"
+    assert (ROOT / "component" / "index.html").is_file()
+    assert (ROOT / "component" / "app.js").is_file()
+    assert (ROOT / "component" / "styles.css").is_file()
+
+    top = result["ranked_concepts"][0]
+    print("MathGap smoke test passed")
+    print(f"Top model candidate: {top['label']} ({top['probability']:.3f})")
+    print(f"Suggested review: {result['recommended_review_label']}")
 
 
 if __name__ == "__main__":
-    test_prediction_path()
-    print("Smoke test passed.")
+    main()

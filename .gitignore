@@ -1,26 +1,34 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
 *.pyd
-.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
 .venv/
 venv/
 env/
-ENV/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Streamlit
+# Streamlit secrets and local state
 .streamlit/secrets.toml
+.streamlit/cache/
 
-# Local OS/editor files
-.DS_Store
+# JavaScript source workspace (only if you experiment with ui_source_original)
+ui_source_original/node_modules/
+ui_source_original/dist/
+
+# Editors and operating systems
 .vscode/
 .idea/
+.DS_Store
+Thumbs.db
 
-# Large local experiments
-runs/
-outputs/
+# Logs and temporary files
 *.log
+*.tmp
+*.bak
+~$*
